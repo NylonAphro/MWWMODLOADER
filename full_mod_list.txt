@@ -1,2 +1,7 @@
 test_mod.lua,lua
 test_image_mod.png,texture
+abc.png,texture
+aaaa.png,texture
+bbbb.png,texture
+cccc.png,texture
+dddd.png,texture
