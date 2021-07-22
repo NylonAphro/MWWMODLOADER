@@ -1,1 +1,2 @@
-test_mod.lua
+test_mod.lua,lua
+test_image_mod.png,texture
