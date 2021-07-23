@@ -1,4 +1,3 @@
-Mod file name, Mod type, Mod nickname, Author, description file
 Lua Mods Base V 0.1.zip,lua,Enable Lua Mods,Neon,LuaModsBase.txt
 Original Init.zip,lua,Disable Lua Mods,Neon,OriginalInit.txt
 Ping Monitor V 0.3.zip,lua,Ping Monitor,Neon,PingMonitor.txt
