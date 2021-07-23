@@ -1,0 +1,4 @@
+Death Animations V 0.1
+Restores the old death animations. This
+also helps with targeting revives as the 
+hitboxes display properly.
