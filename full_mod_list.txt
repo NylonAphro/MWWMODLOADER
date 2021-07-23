@@ -1,9 +1,9 @@
-test_mod.lua,lua
-Mod file name, Mod type, Mod nickname, Author, description file 
-scripts-game-game_state-ingame-client-game_state_ingame_client_running.lua,lua,PingMod,Neon,PingMod.txt
-test_image_mod.png,texture
-abc.png,texture
-aaaa.png,texture
-bbbb.png,texture
-cccc.png,texture
-dddd.png,texture
+Mod file name, Mod type, Mod nickname, Author, description file
+Lua Mods Base V 0.1.zip,lua,Enable Lua Mods,Neon,LuaModsBase.txt
+Original Init.zip,lua,Disable Lua Mods,Neon,OriginalInit.txt
+Ping Monitor V 0.3.zip,lua,Ping Monitor,Neon,PingMonitor.txt
+Death Animations V 0.1.zip,lua,Death Animations,Neon,DeathAnimations.txt
+Chat Mod V 0.3.zip,lua,Chat plus,Neon,ChatMod.txt
+Spectator Mode V 0.2.zip,lua,Spectator Plus,Neon,SpectatorMod.txt
+Third Person Mod V 0.2.zip,lua,Third Person,Neon,ThirdPersonMod.txt
+MushroomMod.zip,texture,Mushroom Robe,Neon,MushroomMod.txt
