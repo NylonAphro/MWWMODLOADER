@@ -6,3 +6,4 @@ Chat Mod V 0.3.zip,lua,Chat plus,Neon,ChatMod.txt
 Spectator Mode V 0.2.zip,lua,Spectator Plus,Neon,SpectatorMod.txt
 Third Person Mod V 0.2.zip,lua,Third Person,Neon,ThirdPersonMod.txt
 MushroomMod.zip,texture,Mushroom Robe,Neon,MushroomMod.txt
+russian_lang.txt,lang,Russian,thavod,russian_lang.txt
