@@ -1,0 +1,2 @@
+Restores the original init file - disabling all 
+lua mods (including ones still in your folders)
