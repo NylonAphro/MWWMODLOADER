@@ -1,0 +1,12 @@
+Spectator Mod V 0.1
+Adds new spectator abilities
+
+spectator mode 'm', free flight 'n', lock free flight height 'b', enable/disable mouse weight 'v'
+controls: pan forward 'w', pan left 'a', pan down/backwards 's', pan right 'd'
+free flight mode: pan up 'q', pan down 'e'
+free flight locked height mode: spin up/down 'scroll wheel'
+free flight locked height mode: speed up 'shift', slow down 'space'
+increase camera pitch 't', decrease camera pitch 'y', zoom in/out 'mouse scroll'
+increase FOV 'x', decrease FOV 'z'
+show/hide camera info 'p', reset camera zoom/pitch 'c'
+increase smoothing '0', decrease smoothing '9'
