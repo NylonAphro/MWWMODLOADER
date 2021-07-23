@@ -1,4 +1,5 @@
 test_mod.lua,lua
+scripts-game-game_state-ingame-client-game_state_ingame_client_running.lua,lua,PingMod
 test_image_mod.png,texture
 abc.png,texture
 aaaa.png,texture
