@@ -1,0 +1,16 @@
+Third Person Mod V 0.2
+
+INGAME:
+Move mouse to rotate camera - player will face the direction the camera is looking
+The player will continue to move towards the target position allowing you to move around more easily
+Use the halt button (default 'space') to  stop moving 
+Hold left alt to free rotate the camera
+Scroll in/out to zoom
+Left mouse button to move forward
+Shift will move player backwards
+Magicks are buggy, and will only target a short distance in front of yourself, revive will target in front of your wizard
+
+OBSERVER:
+W A S D to move camera
+Shift to boost
+Scroll to zoom in/out
