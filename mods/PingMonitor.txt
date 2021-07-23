@@ -1,0 +1,7 @@
+Ping Mod V 0.3 
+Fixed Bugs
+No longer displays 93485273294 decimal places of precision
+
+Finally, you can now see your own ping while ingame!
+Use the newest beta version of the mod loader to install.
+Press 0 to toggle overlay
