@@ -1,0 +1,3 @@
+Downloading and enabling this will replace your 
+old init.lua file with one that functions with
+custom lua mod files
