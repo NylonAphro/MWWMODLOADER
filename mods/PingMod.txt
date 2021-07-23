@@ -1,0 +1,22 @@
+- Adds new chat commands, including the ability to block, & mute other players
+- Adds timestamps to the chat
+
+Wizards who do not have the mod will see encrypted messages in the chat when an @ command is used 
+Install with the MagickaLuaLoader_Beta version of the MWW Mod Loader. Drag and drop scripts-game-chat-chat_system.lua file into the loader and press build.
+all chat commands use the backslash \ not a forward slash /
+-- Blocked messages will show who sent it but remove the message --
+\block WizardName
+\unblock WizardName
+\block last (blocks the last wizard that sent a message)
+\unblock last (unblocks the last wizard that sent a message)
+\unblock all
+
+-- Muted messages will not display at all --
+\mute WizardName
+\unmute WizardName
+\mute last (mutes the last wizard that sent a message)
+\unmute last (unmutes the last wizard that sent a message)
+\unmute all
+
+-- Private messages can be sent to other players who have installed the chat mod --
+@WizardName YourMessageHere
