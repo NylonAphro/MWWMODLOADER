@@ -12,7 +12,7 @@
 "BTN_BuildMod","Построить Мод"
 "BTN_ShowLog","Показать Лог"
 "BTN_DownloadMods","Загрузить Моды"
-"LBL_NewFiles""Новые Файлы"
+"LBL_NewFiles","Новые Файлы"
 "BTN_Reinstall","Переустановить"
 "MenuItem","nicknameFileToolStripMenuItem","Задать Никнейм Файлу"
 "MenuItem","resetLanguageFileToolStripMenuItem","Обновить Язык"
