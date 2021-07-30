@@ -4,6 +4,10 @@ Ping Monitor V 0.3.zip,lua,Ping Monitor,Neon,PingMonitor.txt
 Death Animations V 0.1.zip,lua,Death Animations,Neon,DeathAnimations.txt
 Chat Mod V 0.3.zip,lua,Chat plus,Neon,ChatMod.txt
 Spectator Mode V 0.2.zip,lua,Spectator Plus,Neon,SpectatorMod.txt
+hide_HUD_v3.zip,lua,Hide UI,Birdacious,HideUI.txt
+hp_numbers.zip,lua,HP Numbers,Birdacious,HPNumbers.txt
+colorblind_friendly_team_colors_v2.zip,lua,Colorblind Teams,Birdacious,ColorblindTeams.txt
 Third Person Mod V 0.2.zip,lua,Third Person,Neon,ThirdPersonMod.txt
 MushroomMod.zip,texture,Mushroom Robe,Neon,MushroomMod.txt
 russian_lang.txt,lang,Russian,thavod,russian_lang.txt
+english_lang.txt,lang,English,Neon,english_lang.txt
