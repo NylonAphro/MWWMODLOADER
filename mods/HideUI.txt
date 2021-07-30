@@ -1,0 +1,9 @@
+Hide HUD (and extra stuff) mod.
+Hold down "ctrl" for a couple seconds in-game to see a tutorial, or see the included README file
+This mod:
+• Lets you toggle parts of the in-game HUD on/off
+• Optionally shows HP numbers above people's floaty HP bars
+• Shows you what map is coming up in the lobby ahead of time
+
+v2: fixed crash when death is summoned
+v3: fixed crash if someone alt+f4'd and also changed the main hotkey from "h" to "ctrl"
