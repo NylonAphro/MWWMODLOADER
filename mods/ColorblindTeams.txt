@@ -1,0 +1,2 @@
+Colorblind-friendly team colors lua mod!
+v2: now the floaty healthbars above people's heads and minimap icons are also changed
