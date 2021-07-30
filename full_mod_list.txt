@@ -1,12 +1,12 @@
 Lua Mods Base V 0.1.zip,lua,Enable Lua Mods,Neon,LuaModsBase.txt
 Original Init.zip,lua,Disable Lua Mods,Neon,OriginalInit.txt
-Ping Monitor V 0.3.zip,lua,Ping Monitor,Neon,PingMonitor.txt
+Ping Monitor V 0.3.zip,lua,Ping Monitor,Neon,PingMonitor.txt,https://cdn.discordapp.com/attachments/699791682115469374/861025383540195358/unknown.png
 Death Animations V 0.1.zip,lua,Death Animations,Neon,DeathAnimations.txt
-Chat Mod V 0.3.zip,lua,Chat plus,Neon,ChatMod.txt
+Chat Mod V 0.3.zip,lua,Chat plus,Neon,ChatMod.txt,https://cdn.discordapp.com/attachments/699791682115469374/863952791487512586/unknown.png
 Spectator Mode V 0.2.zip,lua,Spectator Plus,Neon,SpectatorMod.txt
 hide_HUD_v3.zip,lua,Hide UI,Birdacious,HideUI.txt
 hp_numbers.zip,lua,HP Numbers,Birdacious,HPNumbers.txt
-colorblind_friendly_team_colors_v2.zip,lua,Colorblind Teams,Birdacious,ColorblindTeams.txt
+colorblind_friendly_team_colors_v2.zip,lua,Colorblind Teams,Birdacious,ColorblindTeams.txt,https://cdn.discordapp.com/attachments/699791682115469374/861321391658631188/cb-friendly_team_colors.png
 Third Person Mod V 0.2.zip,lua,Third Person,Neon,ThirdPersonMod.txt
 MushroomMod.zip,texture,Mushroom Robe,Neon,MushroomMod.txt
 russian_lang.txt,lang,Russian,thavod,russian_lang.txt
