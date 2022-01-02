@@ -7,7 +7,6 @@ Spectator Mode V 0.2.zip,lua,Spectator Plus,Neon,SpectatorMod.txt
 hide_HUD_v3.zip,lua,Hide UI,Birdacious,HideUI.txt
 hp_numbers.zip,lua,HP Numbers,Birdacious,HPNumbers.txt,https://cdn.discordapp.com/attachments/305127221893529600/864581236079853599/unknown.png
 colorblind_friendly_team_colors_v2.zip,lua,Color blind Teams,Birdacious,ColorblindTeams.txt,https://cdn.discordapp.com/attachments/699791682115469374/861321391658631188/cb-friendly_team_colors.png
-Third Person Mod V 0.2.zip,lua,Third Person,Neon,ThirdPersonMod.txt,https://cdn.discordapp.com/attachments/738917570488434769/870487143972208650/unknown.png
 MushroomMod.zip,texture,Mushroom Robe,Neon,MushroomMod.txt,https://cdn.discordapp.com/attachments/738917570488434769/870487882488487986/unknown.png
 russian_lang.txt,lang,Russian,thavod,russian_lang.txt
 english_lang.txt,lang,English,Neon,english_lang.txt
