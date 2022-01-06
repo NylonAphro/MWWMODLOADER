@@ -1,0 +1,17 @@
+Ingame UI Overhaul Version 0.5
+Please message me if there is anything horribly game breaking.
+
+Track stats live while in-game
+Mod will display:
+Total damage dealt
+Total damage to each player
+Total healing given
+Total healing to each player
+Score based off of kills, damage, healing, captures, & souls
+Saves a .txt  & .csv file log in your MWW directory of past game stats.
+
+Additional Features:
+Ability to leave any game at any time by pressing ESCAPE
+Completely removes forfeit from team games
+Spell log showing past spells you have used
+Removes the old Death Message popup (I plan to add this to kill log instead)
