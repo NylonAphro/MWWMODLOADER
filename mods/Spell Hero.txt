@@ -1,0 +1,3 @@
+Spell Hero Version 0.3
+
+Adds a lobby minigame to practice queueing and dequeuing elements.  
