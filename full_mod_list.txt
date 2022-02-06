@@ -4,6 +4,7 @@ Ping Monitor V 0.3.zip,lua,Ping Monitor,Neon,PingMonitor.txt,https://cdn.discord
 Death Animations V 0.1.zip,lua,Death Animations,Neon,DeathAnimations.txt,https://cdn.discordapp.com/attachments/738917570488434769/870486599534776340/unknown.png
 Chat Mod V 0.3.zip,lua,Chat plus,Neon,ChatMod.txt,https://cdn.discordapp.com/attachments/699791682115469374/863952791487512586/unknown.png
 Ingame UI Overhaul 0.5.zip,lua,Ingame UI Overhaul,Neon,Ingame UI Overhaul.txt,https://media.discordapp.net/attachments/389494145325989890/928428742399885352/unknown.png?width=1243&height=701
+Spell Hero V0.3.zip,lua,Spell Hero,Neon,Spell Hero.txt
 Spectator Mode V 0.2.zip,lua,Spectator Plus,Neon,SpectatorMod.txt
 hide_HUD_v3.zip,lua,Hide UI,Birdacious,HideUI.txt
 hp_numbers.zip,lua,HP Numbers,Birdacious,HPNumbers.txt,https://cdn.discordapp.com/attachments/305127221893529600/864581236079853599/unknown.png
