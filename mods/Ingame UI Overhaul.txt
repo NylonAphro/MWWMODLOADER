@@ -1,5 +1,10 @@
-Ingame UI Overhaul Version 0.5
+Ingame UI Overhaul Version 0.7
 Please message me if there is anything horribly game breaking.
+
+*UPDATE 0.7*
+1) press escape to show forfeit dialog & hold tab to vote
+2) press shift + escape to bring up quit match dialog
+3) saves spell log preferences instead of resetting it every match
 
 Track stats live while in-game
 Mod will display:
@@ -8,10 +13,9 @@ Total damage to each player
 Total healing given
 Total healing to each player
 Score based off of kills, damage, healing, captures, & souls
-Saves a .txt  & .csv file log in your MWW directory of past game stats.
+Saves a .txt & a .csv file log in your MWW directory of past game stats.
 
 Additional Features:
-Ability to leave any game at any time by pressing ESCAPE
-Completely removes forfeit from team games
+Ability to leave any game at any time by pressing SHIFT + ESCAPE
 Spell log showing past spells you have used
 Removes the old Death Message popup (I plan to add this to kill log instead)
