@@ -1,0 +1,8 @@
+Better Matchmaking Menu Version 0.2
+Please message me if there is anything horribly game breaking.
+
+Features
+Fixes graphical bug of menu texture
+Adds buttons to sort servers by ping, player count, or alphabetically
+Makes refreshing faster
+Fixes crash when trying to refresh too quickly
