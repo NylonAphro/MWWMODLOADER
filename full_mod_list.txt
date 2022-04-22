@@ -3,7 +3,7 @@ Original Init.zip,lua,Disable Lua Mods,Neon,OriginalInit.txt
 Ping Monitor V 0.3.zip,lua,Ping Monitor,Neon,PingMonitor.txt,https://cdn.discordapp.com/attachments/699791682115469374/861025383540195358/unknown.png
 Death Animations V 0.1.zip,lua,Death Animations,Neon,DeathAnimations.txt,https://cdn.discordapp.com/attachments/738917570488434769/870486599534776340/unknown.png
 Chat Mod V 0.3.zip,lua,Chat plus,Neon,ChatMod.txt,https://cdn.discordapp.com/attachments/699791682115469374/863952791487512586/unknown.png
-Ingame UI Overhaul 0.7.zip,lua,Ingame UI Overhaul,Neon,Ingame UI Overhaul.txt,https://media.discordapp.net/attachments/389494145325989890/928428742399885352/unknown.png?width=1243&height=701
+Ingame UI Overhaul 0.8.zip,lua,Ingame UI Overhaul,Neon,Ingame UI Overhaul.txt,https://media.discordapp.net/attachments/389494145325989890/928428742399885352/unknown.png?width=1243&height=701
 Better Matchmaking Menu v 0.2.zip,lua,Better Match Menu,Neon,Better Matchmaking Menu.txt,https://media.discordapp.net/attachments/699791682115469374/958144677280907274/unknown.png?width=1044&height=701
 Spell Hero V0.3.zip,lua,Spell Hero,Neon,Spell Hero.txt,https://media.discordapp.net/attachments/699791682115469374/939748229011079178/unknown.png
 Spectator Mode V 0.2.zip,lua,Spectator Plus,Neon,SpectatorMod.txt
