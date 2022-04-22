@@ -1,21 +1,36 @@
-Ingame UI Overhaul Version 0.7
+**Ingame UI Overhaul Version 0.8**
 Please message me if there is anything horribly game breaking.
 
-*UPDATE 0.7*
-1) press escape to show forfeit dialog & hold tab to vote
-2) press shift + escape to bring up quit match dialog
-3) saves spell log preferences instead of resetting it every match
+*UPDATE 0.8*
+Level System is back
+Level will display on all clients, and show in the Top Wizards section of the leaderboards
+Assists are back in the game and included in score calculation
+Friends list is back in the menu
 
-Track stats live while in-game
-Mod will display:
-Total damage dealt
-Total damage to each player
-Total healing given
-Total healing to each player
-Score based off of kills, damage, healing, captures, & souls
+*Controls*
+press Escape to show forfeit dialog & hold tab to vote
+press Shift + Escape to bring up quit match dialog
+
+*Features*
+Adds assists back into the game
+Adds level system back into the game
+Friends list is back in the main menu
+Score based off of kills, damage, healing, captures, and souls
 Saves a .txt & a .csv file log in your MWW directory of past game stats.
+Track stats live while in-game:
+  Total damage dealt
+  Total damage to each player
+  Total healing given
+  Total healing to each player
 
-Additional Features:
+*Additional Features:*
 Ability to leave any game at any time by pressing SHIFT + ESCAPE
 Spell log showing past spells you have used
 Removes the old Death Message popup (I plan to add this to kill log instead)
+
+*Additional Info*
+XP at end of match is converted directly from your score. A win grants a 2x multiplier.
+Score is calculated with below formula
+(Damage Dealt + Healing Given + ((kills + (assists / 2) + (points captured * 2) + (soul pickups / 10)) * 10000))/1000
+
+http://mww.sonicrat.org/top/
