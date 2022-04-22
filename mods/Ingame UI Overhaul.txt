@@ -6,6 +6,7 @@ Level System is back
 Level will display on all clients, and show in the Top Wizards section of the leaderboards
 Assists are back in the game and included in score calculation
 Friends list is back in the menu
+Includes Spell Hero
 
 *Controls*
 press Escape to show forfeit dialog & hold tab to vote
@@ -27,6 +28,7 @@ Track stats live while in-game:
 Ability to leave any game at any time by pressing SHIFT + ESCAPE
 Spell log showing past spells you have used
 Removes the old Death Message popup (I plan to add this to kill log instead)
+Adds full Spell Hero mod into the lobby screen
 
 *Additional Info*
 XP at end of match is converted directly from your score. A win grants a 2x multiplier.
