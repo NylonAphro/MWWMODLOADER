@@ -1,0 +1,4 @@
+Mushroom robe Mod v 0.1
+
+Replaces the orange Wuxia robe with one that
+resembles a mushroom.
