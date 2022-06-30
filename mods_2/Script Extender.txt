@@ -2,3 +2,5 @@ Script Extender Package
 
 Installs the MWW Script extender. Allows modding, and used to extend, hook & modify the games lua code.
 This package is required to run lua mods
+
+Automatically updated every time a new mod is downloaded.
