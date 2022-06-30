@@ -1,4 +1,4 @@
 Lua Mods Base V 0.1.mww,lua,Enable Lua Mods,Neon,LuaModsBase.txt
-Script Extender V0.1.mww,lua,Base Files,Neon,OriginalInit.txt
+Script Extender V0.1.mww,lua,Base Files,Neon,Script Extender.txt
 Original Init.mww,lua,Disable Lua Mods,Neon,OriginalInit.txt
 MushroomMod.mww,texture,Mushroom Robe,Neon,MushroomMod.txt,https://cdn.discordapp.com/attachments/738917570488434769/870487882488487986/unknown.png
