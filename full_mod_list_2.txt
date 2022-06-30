@@ -1,1 +1,4 @@
-asdf
+Lua Mods Base V 0.1.zip,lua,Enable Lua Mods,Neon,LuaModsBase.txt
+Original Init.zip,lua,Disable Lua Mods,Neon,OriginalInit.txt
+MushroomMod.zip,texture,Mushroom Robe,Neon,MushroomMod.txt,https://cdn.discordapp.com/attachments/738917570488434769/870487882488487986/unknown.png
+https://media.discordapp.net/attachments/389494145325989890/928428742399885352/unknown.png?width=1243&height=701
