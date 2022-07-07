@@ -1,0 +1,4 @@
+Spell Log V1.0
+
+Adds a an animated log on the side of your screen to track your casting!
+Press ctrl + shift + L to toggle display
