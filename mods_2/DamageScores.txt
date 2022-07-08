@@ -1,0 +1,23 @@
+Damage Scores Version 0.9
+Please message me if there is anything horribly game breaking.
+
+UPDATE 0.9
+Level System is back
+Level will display on all clients, and show in the Top Wizards section of the leaderboard
+
+Features
+Adds level system back into the game
+Score based off of kills, damage, healing, captures, and souls
+Track stats live while in-game:
+  Total damage dealt
+  Total damage to each player
+  Total healing given
+  Total healing to each player
+
+Additional Info
+XP at end of match is converted directly from your score. A win grants a 2x multiplier.
+Score is calculated with below formula
+(Damage Dealt + Healing Given + ((kills + (assists / 2) + (points captured * 2) + (soul pickups / 10)) * 10000))/1000
+
+http://mww.sonicrat.org/top/
+requires Script Extender Version 0.1 and up
