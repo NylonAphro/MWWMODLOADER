@@ -2,4 +2,5 @@ Lua Mods Base V 0.1.mww,lua,Enable Lua Mods,Neon,LuaModsBase.txt
 Script ExtenderV0.4.mww,lua,Base Files,Neon,Script Extender.txt
 Original Init.mww,lua,Disable Lua Mods,Neon,OriginalInit.txt
 Spell Log1.0.mww,lua,Spell Log,Neon,SpellLog.txt,https://cdn.discordapp.com/attachments/991812309456527502/994464785477406810/unknown.png
+PingMonitor.mww,lua,Ping Monitor,Neon,PingMonitor.txt,https://cdn.discordapp.com/attachments/991812309456527502/994810649697845348/unknown.png
 MushroomMod.mww,texture,Mushroom Robe,Neon,MushroomMod.txt,https://cdn.discordapp.com/attachments/738917570488434769/870487882488487986/unknown.png
