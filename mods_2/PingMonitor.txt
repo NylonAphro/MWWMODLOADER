@@ -1,0 +1,6 @@
+Ping Monitor V0.1
+
+Adds an overlay in the top left corner that displays ping and packet loss %.
+Press ctrl + shift + 0 to toggle display.
+
+requires Script Extender Version 0.4 and up 
