@@ -1,1 +1,1 @@
-Script ExtenderV0.5.mww
+Script ExtenderV0.6.mww
