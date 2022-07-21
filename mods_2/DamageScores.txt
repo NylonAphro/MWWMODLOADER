@@ -1,7 +1,7 @@
-Damage Scores Version 0.9
+Damage Scores Version 1.1
 Please message me if there is anything horribly game breaking.
 
-UPDATE 0.9
+UPDATE 1.1
 Level System is back
 Level will display on all clients, and show in the Top Wizards section of the leaderboard
 
