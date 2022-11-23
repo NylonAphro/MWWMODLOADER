@@ -1,6 +1,6 @@
-Spell Log V1.3
+Spell Log V1.4
 
 Adds a an animated log on the side of your screen to track your casting!
 Press ctrl + shift + L to toggle display
 
-*requires Script Extender Version 0.3 and up*
+*requires Script Extender Version 1.2 and up*

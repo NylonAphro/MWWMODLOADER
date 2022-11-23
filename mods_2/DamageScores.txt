@@ -1,5 +1,8 @@
-Damage Scores Version 1.2
+Damage Scores Version 1.3
 Please message me if there is anything horribly game breaking.
+
+UPDATE 1.3
+Update to support Script Extender V1.2
 
 UPDATE 1.1
 Level System is back
