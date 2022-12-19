@@ -1,4 +1,4 @@
-Better Status Effects
+Better Status Effects 2.0
 
 Adds three separate status indicators.
 Overlay that creates a coloured Vignette depending on status.
