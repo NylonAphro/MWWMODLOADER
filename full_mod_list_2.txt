@@ -1,5 +1,5 @@
 Lua Mods Base V 0.1.mww,lua,Enable Lua Mods,Neon,LuaModsBase.txt
-Script ExtenderV1.3.mww,lua,Script Extender,Neon,Script Extender.txt
+Script ExtenderV1.4.mww,lua,Script Extender,Neon,Script Extender.txt
 Original Init.mww,lua,Disable Lua Mods,Neon,OriginalInit.txt
 MagickSwap.mww,lua,Magic Swapping,RaT,MagickSwap.txt
 Spell Log.mww,lua,Spell Log,Neon,SpellLog.txt,https://cdn.discordapp.com/attachments/991812309456527502/994464785477406810/unknown.png
