@@ -1,1 +1,2 @@
-Test Mod, 1.3, Test download mod with fancy description, True, 1, Neon
+Test Mod,1.3,Test download mod with fancy description,True,1,Neon,https://cdn.discordapp.com/attachments/991812309456527502/1063925111696150618/lemon_robe.png
+Test Mod 2,1.3,This is the best mod ever!I love making mods,True,1,Neon,https://cdn.discordapp.com/attachments/991812309456527502/1030653377920634910/unknown.png
