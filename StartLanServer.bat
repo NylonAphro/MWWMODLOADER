@@ -150,7 +150,7 @@ GOTO LAUNCH
 SET base=-bundle-dir ./data_win32_bundled -window-title "Magicka:Wizard Wars" -ini settings_client -property-order server client -network-profile lan
 SET server=-auto-start-server -server-name %name% -auto-run-game-mode-gameconfiguration %gamemode% -ignore-loadout-verification -no-anti-cheat -disable-chat -auto-run-level %map% -disable-persistence -dedicated-server -no-rendering -allow-spectators -max-players %players%
 
-bitsquid_win32_dev_rev.exe %base% %server%
+bitsquid_win32_dev.exe %base% %server%
 
 pause
 
