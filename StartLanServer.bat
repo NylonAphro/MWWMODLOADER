@@ -137,7 +137,7 @@ GOTO NAME
 :NAME
 @ECHO.
 IF DEFINED name GOTO LAUNCH
-SET /P name="Please enter a server name in quotes (eg: "[US] RaT's Server"):"
+SET /P name="Please enter a server name in quotes (eg: "LAN Server"):"
 IF NOT DEFINED name GOTO NAME
 GOTO LAUNCH
 
@@ -151,6 +151,8 @@ SET base=-bundle-dir ./data_win32_bundled -window-title "Magicka:Wizard Wars" -i
 SET server=-auto-start-server -server-name %name% -auto-run-game-mode-gameconfiguration %gamemode% -ignore-loadout-verification -no-anti-cheat -disable-chat -auto-run-level %map% -disable-persistence -dedicated-server -no-rendering -allow-spectators -max-players %players%
 
 bitsquid_win32_dev_rev.exe %base% %server%
+
+pause
 
 
 GOTO EXIT
