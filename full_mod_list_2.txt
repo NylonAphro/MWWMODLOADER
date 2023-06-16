@@ -7,3 +7,4 @@ PingMonitor.mww,lua,Ping Monitor,Neon,PingMonitor.txt,https://cdn.discordapp.com
 Damage Score.mww,lua,Damage Scores,Neon,DamageScores.txt,https://cdn.discordapp.com/attachments/991812309456527502/994816351711535154/unknown.png
 Better Status Effects.mww,lua,Better Status Effects,Neon,Better Status Effects.txt,https://cdn.discordapp.com/attachments/738917570488434769/994820581826498650/unknown.png
 Spectator Mod.mww,lua,Better Spectator,Neon,Spectator Mod.txt,https://cdn.discordapp.com/attachments/699791682115469374/997297245747691611/unknown.png
+

@@ -10,3 +10,4 @@ Spectator Mod.sww
 Spell Log.sww
 simple ui mod.sww
 Swap Magicks.sww
+Chat Extensions.sww
