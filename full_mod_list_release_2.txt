@@ -12,4 +12,4 @@ simple ui mod.sww
 Swap Magicks.sww
 Chat Extensions.sww
 Third Person Camera.sww
-ChatEmotes.sww
+Chat Emotes.sww
