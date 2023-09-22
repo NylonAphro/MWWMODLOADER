@@ -12,3 +12,4 @@ simple ui mod.sww
 Chat Extensions.sww
 Third Person Camera.sww
 Chat Emotes.sww
+SpellHero.sww
