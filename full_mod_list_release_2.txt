@@ -1,4 +1,7 @@
 Better Status Effects.sww
+Better Wards.sww
+Chat Emotes.sww
+Chat Extensions.sww
 Damage Score.sww
 Dark Wuxia.sww
 Gold Tesla Staff.sww
@@ -8,8 +11,6 @@ PingMonitor.sww
 Silver Katana.sww
 Spectator Mod.sww
 Spell Log.sww
-simple ui mod.sww
-Chat Extensions.sww
-Third Person Camera.sww
-Chat Emotes.sww
 SpellHero.sww
+Third Person Camera.sww
+simple ui mod.sww
