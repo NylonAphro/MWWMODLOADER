@@ -6,7 +6,6 @@ Damage Score.sww
 Dark Wuxia.sww
 Gold Tesla Staff.sww
 Hat Icon.sww
-HP Numbers.sww
 Lemon Wuxia.sww
 Lobby Minimap.sww
 PingMonitor.sww
