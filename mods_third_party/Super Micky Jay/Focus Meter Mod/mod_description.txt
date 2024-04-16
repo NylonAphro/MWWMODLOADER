@@ -1,0 +1,16 @@
+Displays the focus next to each player, as well as focus bars in the Wizard Warfare and Soul Harvest game modes. Created by SuperMickyJay
+
+Adds a focus bar in one of three places above each player. With option to hide for the player, your team and/or the enemy team.
+Adds focus icons next to the health bar of each player, which display full segments of focus (i.e. 1 icon = 1 Haste). With option to hide for the player, your team and/or the enemy team.
+Adds focus bars next to each player portrait in Wizard Warfare and Soul Harvest game modes.
+
+Press shift + alt + i to toggle the player's focus bar 
+Press shift + alt + j to toggle the player's focus icons
+Press shift + alt + o to toggle your team's focus bars
+Press shift + alt + k to toggle your team's focus icons
+Press shift + alt + p to toggle the enemy's focus bars
+Press shift + alt + l to toggle the enemy's focus icons
+
+Press shift + alt + u to toggle the position of the focus bars
+
+Note: If spectating then both teams are considered "enemy" teams, so only need to use the enemy focus bar toggle.

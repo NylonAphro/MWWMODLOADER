@@ -4,6 +4,7 @@ Chat Emotes.sww
 Chat Extensions.sww
 Damage Score.sww
 Dark Wuxia.sww
+Focus Meter Mod.mww
 Gold Tesla Staff.sww
 Hat Icon.sww
 Lemon Wuxia.sww
