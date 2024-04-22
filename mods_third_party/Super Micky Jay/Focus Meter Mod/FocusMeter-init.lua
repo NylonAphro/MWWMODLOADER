@@ -2,14 +2,18 @@ local InputController = require("scripts/input_controller")
 
 local FocusMeter = {}
 
+local VERSION = "1.2.3"
+local VERSION_WHOLE = "Focus Meter Mod Version " .. VERSION
+
 --Basic mod info
 FocusMeter.info = {
 	name = "FocusMeter",
 	author = "SuperMickyJay",
 	description = "Displays the amount of focus next to each player.",
-	version = "0.1",
+	version = VERSION,
 	repo_link = "",
 	last_dt = 0,
+	peer_id = "missing_id"
 }
 
 FocusMeter.settings = {	
@@ -38,6 +42,10 @@ local focus_bar_fill_size = {34, 24}
 local focus_bar_size = {192, 24}
 local focus_bar_scale = 3
 local focus_bar_portrait_scale = 1.35 
+
+local scoreboard_button = UserSetting()["keybindings"]["show_stats_screen"]
+
+local is_game_over = false
 
 -- Gets the screen position for the focus bar based on the player position and settings.
 local function get_screen_pos_for_new_focus_bar(condition_args)
@@ -86,12 +94,9 @@ end
 
 -- Gets whether the supplied is alive or not.
 local function get_alive(peer_id)
-	local unit = GET_UNIT_DATA(peer_id)
-	if unit.health > 0 then
-		return true
-	end		
+	local unit = ID_TO_UNIT(peer_id)
 
-	return false
+	return UNIT_IS_ALIVE(unit)
 end
 
 --Returns whether player is on the user's team.
@@ -99,7 +104,7 @@ local function check_same_team(peer_id)
 	--data about the target player
 	local peer_data = GET_UNIT_DATA(peer_id) or {}
 	--data about the local player
-	local self_data = GET_UNIT_DATA(Network.peer_id())
+	local self_data = GET_UNIT_DATA(FocusMeter.peer_id)
 
 	if peer_data.team == self_data.team then
 		return true
@@ -119,32 +124,42 @@ end
 -- This is what makes the bar slowly fill up by scaling the X value.
 local function get_focus_bar_fill_size(condition_args)
 	local focus = get_focus(condition_args.peer_id)
-	local relative_focus = focus - (condition_args.focus_bar_number * 25)
-	local size
-	
-	if (condition_args.focus_bar_number == 0 and focus < 25) then		
-		size = {focus_bar_fill_size[1] * (focus / 25), focus_bar_fill_size[2]}	
-	elseif (condition_args.focus_bar_number == 1 and focus < 50 and focus > 25) then
-		size = {focus_bar_fill_size[1] * (relative_focus / 25), focus_bar_fill_size[2]}	
-	elseif (condition_args.focus_bar_number == 2 and focus < 75 and focus > 50) then
-		size = {focus_bar_fill_size[1] * (relative_focus / 25), focus_bar_fill_size[2]}	
-	elseif (condition_args.focus_bar_number == 3 and focus < 100 and focus > 75) then
-		size = {focus_bar_fill_size[1] * (relative_focus / 25), focus_bar_fill_size[2]}	
-	else
-		size = {focus_bar_fill_size[1], focus_bar_fill_size[2]}
+	local alive = get_alive(condition_args.peer_id)
+
+	if (condition_args.is_portrait) or (condition_args.peer_id == FocusMeter.peer_id and FocusMeter.settings.show_player_bar) or (condition_args.peer_id ~= FocusMeter.peer_id and condition_args.is_team and FocusMeter.settings.show_team_bars) or (FocusMeter.settings.show_enemy_bars and not condition_args.is_team) then
+		if alive or condition_args.is_portrait then 
+
+			local relative_focus = focus - (condition_args.focus_bar_number * 25)
+			local size
+			
+			if (condition_args.focus_bar_number == 0 and focus < 25) then		
+				size = {focus_bar_fill_size[1] * (focus / 25), focus_bar_fill_size[2]}	
+			elseif (condition_args.focus_bar_number == 1 and focus < 50 and focus > 25) then
+				size = {focus_bar_fill_size[1] * (relative_focus / 25), focus_bar_fill_size[2]}	
+			elseif (condition_args.focus_bar_number == 2 and focus < 75 and focus > 50) then
+				size = {focus_bar_fill_size[1] * (relative_focus / 25), focus_bar_fill_size[2]}	
+			elseif (condition_args.focus_bar_number == 3 and focus < 100 and focus > 75) then
+				size = {focus_bar_fill_size[1] * (relative_focus / 25), focus_bar_fill_size[2]}	
+			else
+				size = {focus_bar_fill_size[1], focus_bar_fill_size[2]}
+			end
+
+			if condition_args.is_portrait then
+				return {size[1]/focus_bar_portrait_scale, size[2]/focus_bar_portrait_scale}
+			end
+
+			return {size[1]/focus_bar_scale, size[2]/focus_bar_scale}
+
+		end
 	end
 
-	if condition_args.is_portrait then
-		return {size[1]/focus_bar_portrait_scale, size[2]/focus_bar_portrait_scale}
-	end
-
-	return {size[1]/focus_bar_scale, size[2]/focus_bar_scale}
+	return {0,0}
 end
 
 -- Determines whether to show the focus bar or not based on settings and if the player is alive.
 local function show_focus_bar(condition_args)
 	if condition_args.is_portrait then
-		if not InputController:input_pressed(UserSetting()["keybindings"]["show_stats_screen"]) then
+		if not InputController:input_pressed(scoreboard_button) and not is_game_over then
 			return "hud_portrait_focus_bar"
 		end
 
@@ -154,7 +169,7 @@ local function show_focus_bar(condition_args)
 
 	local alive = get_alive(condition_args.peer_id)
 
-	if (condition_args.peer_id == Network.peer_id() and FocusMeter.settings.show_player_bar) or (condition_args.peer_id ~= Network.peer_id() and condition_args.is_team and FocusMeter.settings.show_team_bars) or (FocusMeter.settings.show_enemy_bars and not condition_args.is_team) then
+	if (condition_args.peer_id == FocusMeter.peer_id and FocusMeter.settings.show_player_bar) or (condition_args.peer_id ~= FocusMeter.peer_id and condition_args.is_team and FocusMeter.settings.show_team_bars) or (FocusMeter.settings.show_enemy_bars and not condition_args.is_team) then
 		if alive then 
 			return "hud_portrait_focus_bar"
 		end
@@ -167,7 +182,7 @@ local function show_focus_fill(condition_args)
 	local alive = get_alive(condition_args.peer_id)
 
 	if (condition_args.is_portrait) then
-		if not InputController:input_pressed(UserSetting()["keybindings"]["show_stats_screen"]) then
+		if not InputController:input_pressed(scoreboard_button) and not is_game_over then
 			if (condition_args.focus_bar_number == 0) or (focus > 25 and condition_args.focus_bar_number == 1) or (focus > 50 and condition_args.focus_bar_number == 2) or (focus > 75 and condition_args.focus_bar_number == 3) then
 				return "hud_portrait_focus_bar_fill"
 			end
@@ -177,7 +192,7 @@ local function show_focus_fill(condition_args)
 		return
 	end
 
-	if (condition_args.peer_id == Network.peer_id() and FocusMeter.settings.show_player_bar) or (condition_args.peer_id ~= Network.peer_id() and condition_args.is_team and FocusMeter.settings.show_team_bars) or (FocusMeter.settings.show_enemy_bars and not condition_args.is_team) then
+	if (condition_args.peer_id == FocusMeter.peer_id and FocusMeter.settings.show_player_bar) or (condition_args.peer_id ~= FocusMeter.peer_id and condition_args.is_team and FocusMeter.settings.show_team_bars) or (FocusMeter.settings.show_enemy_bars and not condition_args.is_team) then
 		if alive then 
 			if (condition_args.focus_bar_number == 0) or (focus > 25 and condition_args.focus_bar_number == 1) or (focus > 50 and condition_args.focus_bar_number == 2) or (focus > 75 and condition_args.focus_bar_number == 3) then
 				return "hud_portrait_focus_bar_fill"
@@ -191,7 +206,7 @@ local function show_focus_icon(condition_args)
 	local focus = get_focus(condition_args.peer_id)
 	local alive = get_alive(condition_args.peer_id)	
 
-	if (condition_args.peer_id == Network.peer_id() and FocusMeter.settings.show_player_icons) or (condition_args.peer_id ~= Network.peer_id() and condition_args.is_team and FocusMeter.settings.show_team_icons) or (FocusMeter.settings.show_enemy_icons and not condition_args.is_team) then
+	if (condition_args.peer_id == FocusMeter.peer_id and FocusMeter.settings.show_player_icons) or (condition_args.peer_id ~= FocusMeter.peer_id and condition_args.is_team and FocusMeter.settings.show_team_icons) or (FocusMeter.settings.show_enemy_icons and not condition_args.is_team) then
 		if alive then 
 			if (focus >= 25 and condition_args.focus_bar_number == 0) or (focus >= 50 and condition_args.focus_bar_number == 1) or (focus >= 75 and condition_args.focus_bar_number == 2) or (focus == 100 and condition_args.focus_bar_number == 3) then
 				if (condition_args.type == "fill") then
@@ -207,9 +222,19 @@ end
 --UI Helper Functions End
 
 FocusMeter.init = function(self, context)
+	FocusMeter.peer_id = Network.peer_id() or "missing_id"
+
 	FocusMeter.settings = LOAD_GLOBAL_MOD_SETTINGS(FocusMeter.info.name, FocusMeter.settings, false)
 
 	SAVE_GLOBAL_MOD_SETTINGS(FocusMeter.info.name, FocusMeter.settings)
+
+	focus_meter_mod_tab = {tab = nil}
+
+	focus_meter_mod_tab.tab = UIFunc.new_mod_tab("Focus Meter", "Focus Meter", function ()
+		local tab_description = "Adds new focus displays to the UI.\nCreated By SuperMickyJay"
+		UIFunc.add_element_to_tab(focus_meter_mod_tab.tab, UIFunc.new_text_markup(VERSION_WHOLE, {100, GET_SCREEN_SIZE_Y() - 200,502}, 40, {255,255,255,255}, false, {}))
+		UIFunc.add_element_to_tab(focus_meter_mod_tab.tab, UIFunc.new_text_body(tab_description, {100, GET_SCREEN_SIZE_Y() - 250,502}, 20, 100, 25))
+	end)
 end
 
 FocusMeter.ingame_init = function (self, context)
@@ -291,17 +316,16 @@ FocusMeter.ingame_init = function (self, context)
 			end
 
 			-- A placeholder parent for grouping the focus icons together
-			local focus_icons_parent_markup = UIFunc.new_texture_markup(
-				"hud_portrait_focus_bar_fill", 
+			local focus_icons_parent_markup = UIFunc.new_text_markup(
+				"", 
 				get_screen_pos_for_new_focus_icons,
-				{12,12}, 
-				false,
+				12, 
 				{0,0,0,0},
+				false,
 				{peer_id = player_list[i]}
 			)
 
 			NEW_UI_ELEMENT("ingame", focus_icons_parent_markup)
-
 
 			-- Loop for the four focus icon markups.
 			local n = 0
@@ -383,11 +407,16 @@ FocusMeter.update = function (self, context)
 	end
 end
 
+FocusMeter.game_over = function (self, context)
+	is_game_over = true
+end
+
 --subscribe to menu to get own peer id
 SUBSCRIBE_TO_STATE("menu", "init", FocusMeter.info.name, FocusMeter.init, FocusMeter)
 
 --subscribe to ingame events
 SUBSCRIBE_TO_STATE("ingame", "players_initialized", FocusMeter.info.name, FocusMeter.ingame_init, FocusMeter)
 SUBSCRIBE_TO_STATE("ingame", "update", FocusMeter.info.name, FocusMeter.update, FocusMeter)
+SUBSCRIBE_TO_STATE("ingame", "game_over", FocusMeter.info.name, FocusMeter.game_over, FocusMeter)
 
 return FocusMeter

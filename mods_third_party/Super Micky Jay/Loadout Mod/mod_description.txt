@@ -1,0 +1,4 @@
+Adds the ability to save and load up to three gear loadouts. 
+Also adds a button to give you a random gear loadout.
+
+Created by SuperMickyJay
