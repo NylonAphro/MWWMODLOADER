@@ -1,6 +1,5 @@
 Better Status Effects.sww
 Better Wards.sww
-Chat Emotes.sww
 Chat Extensions.sww
 Damage Score.sww
 Dark Wuxia.sww
