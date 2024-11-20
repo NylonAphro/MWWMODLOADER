@@ -10,6 +10,7 @@ Lemon Wuxia.sww
 Loadout Mod.sww
 Lobby Minimap.sww
 Matchmaking Plus.sww
+MoreBlood.sww
 PingMonitor.sww
 Silver Katana.sww
 Spectator Mod.sww
