@@ -3,6 +3,7 @@ Better Wards.sww
 Chat Extensions.sww
 Damage Score.sww
 Dark Wuxia.sww
+FlappyWizard.sww
 Focus Meter Mod.sww
 Gold Tesla Staff.sww
 Hat Icon.sww
