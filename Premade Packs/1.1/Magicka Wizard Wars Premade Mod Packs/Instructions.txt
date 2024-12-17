@@ -1,0 +1,110 @@
+Instructions 
+
+This guide assumes you already have the Magicka: Wizard Wars client patch 2.6.0 installed.
+This guide also only works if you do not have the mod loader installed.
+
+How to Install
+
+1) Extract the "Magicka Wizard Wars Premade Mod Packs.zip" file
+2) Select *ONE* of the included packs (included are packs 1 to 3)
+3) Open the premade pack folder 
+4) Copy/replace "data_win32_bundled" & "DataManager" into your Wizard Wars Steam folder. By default it is in "C:\Program Files (x86)\Steam\steamapps\common\MagickaWizardWars"
+5) If your pack includes the Matchmaking Plus mod, also copy the Match History folder over to the same location
+6) Launch game
+
+How to Uninstall
+
+1) Copy Pack 0 into your MWW steam directory (same as installation)
+2) Make sure it asks to replace files, if it does not you have done something wrong (probably copied to wrong folder).
+3) If you want to remove the flappy wizard texture delete "b2e35f17ff93e706.patch_0" from the "data_win32_bundled" folder
+4) Launch Game
+
+------------------------------------------------------------------
+Pack 1 - includes:
+Script Extender
+	- Bug/Crash fixes
+	- UI fixes
+	- Death animations
+	- Mod Menu
+
+------------------------------------------------------------------
+Pack 2 - Basics includes: 
+Script Extender 
+	- Bug/Crash fixes
+	- UI fixes
+	- Death animations
+	- Mod Menu
+Matchmaking Plus
+	- Additional matchmaking options including team randomizer, host assignment and more
+Ping Monitor
+	- Displays ping to server while in game on top left corner (disable with `ctrl`+ `shift` + '0'
+Auto Login
+	- Clicks the "Login" button for you
+Chat Extensions
+	- Blocked messages will show who sent it but remove the message 
+		\block WizardName
+		\unblock WizardName
+		\block last (blocks the last wizard that sent a message)
+		\unblock last (unblocks the last wizard that sent a message)
+		\unblock all
+	- Muted messages will not display at all
+		\mute WizardName
+		\unmute WizardName
+		\mute last (mutes the last wizard that sent a message)
+		\unmute last (unmutes the last wizard that sent a message)
+		\unmute all
+
+------------------------------------------------------------------
+Pack 3 - Basics + UI includes: 
+Script Extender 
+	- Bug/Crash fixes
+	- UI fixes
+	- Death animations
+	- Mod Menu
+Matchmaking Plus
+	- Additional matchmaking options including team randomizer, host assignment and more
+Ping Monitor
+	- Displays ping to server while in game on top left corner (Press ctrl + shift + 0 to toggle display)
+Auto Login
+	- Clicks the "Login" button for you
+Chat Extensions
+	- Blocked messages will show who sent it but remove the message 
+		\block WizardName
+		\unblock WizardName
+		\block last (blocks the last wizard that sent a message)
+		\unblock last (unblocks the last wizard that sent a message)
+		\unblock all
+	- Muted messages will not display at all --
+		\mute WizardName
+		\unmute WizardName
+		\mute last (mutes the last wizard that sent a message)
+		\unmute last (unmutes the last wizard that sent a message)
+		\unmute all
+Spell Log
+	- Adds a log on the side of your screen to track your casting! Created by Neon (Press ctrl + shift + L to toggle display)
+Spectator Mod
+	- Unlocks free movement mode for dead players & spectators
+	- Zoom in/out with scroll wheel
+	- Toggle free flight mode: 'left ctrl'
+	- Flight mode controls: pan forward 'w', pan left 'a', pan down/backwards 's', pan right 'd'
+	- Press 'left ctrl' to unstuck the camera
+Flappy Wizard
+	- Adds a minigame in the menu to help practice warding. Created by Neon
+Damage Score
+	- Custom score screen UI
+	- Adds damage & healing score inagme
+
+
+
+------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
