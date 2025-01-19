@@ -16,6 +16,7 @@ MoreBlood.sww
 PingMonitor.sww
 Silver Katana.sww
 Spectator Mod.sww
+Spell Crush.sww
 Spell Log.sww
 SpellHero.sww
 Third Person Camera.sww
