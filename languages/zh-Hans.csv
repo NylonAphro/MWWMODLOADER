@@ -1,0 +1,174 @@
+﻿Key,Translation
+Action.BTN_CatalogCheckExtenderUpdates,检查更新
+Action.BTN_FrontCheckExtenderUpdates,检查更新
+Action.BTN_FrontCheckLoaderUpdates,检查更新
+Action.BTN_ManageRepositories,添加 / 移除
+Action.CreateMod,创建模组
+Action.DeleteMod,删除
+Action.DisableMod,禁用
+Action.DownloadMod,下载
+Action.EnableMod,启用
+Action.InfoMod,详情
+Action.OpenModFolder,打开模组文件夹
+Action.Update_ButtonMod,更新
+Choice.Author groups,按作者分组
+Choice.Automatic (system),自动（系统语言）
+Choice.A–Z,升序
+Choice.Compact — 2 columns,紧凑 — 2 列
+Choice.Default — 3 columns,默认 — 3 列
+Choice.Deutsch,Deutsch
+Choice.Disabled first,已禁用的优先
+Choice.Enabled first,已启用的优先
+Choice.English,English
+Choice.Español,Español
+Choice.Français,Français
+Choice.Full screen (maximized),全屏（最大化）
+Choice.Imported CSV,已导入的 CSV
+Choice.Installed first,已安装的优先
+Choice.Name only,仅按名称
+Choice.Newest downloads,最新下载优先
+Choice.Oldest downloads,最早下载优先
+Choice.Uninstalled first,未安装的优先
+Choice.Z–A,降序
+Choice.Русский,Русский
+Control.BitsquidUnpacker.BTN_OpenPNG,打开 PNG 文件夹
+Control.BitsquidUnpacker.BTN_OpenRawFolder,打开原始文件夹
+Control.BitsquidUnpacker.BTN_UnpackFiles,解包所选项
+Control.BitsquidUnpacker.LBL_Packs,资源包
+Control.BitsquidUnpacker.label1,已禁用的模组
+Control.MainFormManager.BTN_CheckForUpdates,检查更新
+Control.MainFormManager.BTN_Clear,清空模组
+Control.MainFormManager.BTN_ClearLoaderData,清除加载器数据
+Control.MainFormManager.BTN_ClearOutput,清空
+Control.MainFormManager.BTN_CompileMod,编译模组
+Control.MainFormManager.BTN_CreateHelpFile,创建诊断文件
+Control.MainFormManager.BTN_DeleteAllMods,删除全部模组
+Control.MainFormManager.BTN_DesktopShortcut,桌面快捷方式
+Control.MainFormManager.BTN_DisableAllMods,禁用全部模组
+Control.MainFormManager.BTN_EnableAllMods,启用全部模组
+Control.MainFormManager.BTN_ExportLanguage,导出模板
+Control.MainFormManager.BTN_ImportLanguage,导入 CSV
+Control.MainFormManager.BTN_LaunchSpectator,以观战模式运行
+Control.MainFormManager.BTN_MoveInstall,迁移安装位置
+Control.MainFormManager.BTN_OpenDiscord,打开 Discord
+Control.MainFormManager.BTN_OpenMyModsFolder,打开模组文件夹
+Control.MainFormManager.BTN_RefreshModFiles,刷新项目
+Control.MainFormManager.BTN_RepoPackage,仓库模板
+Control.MainFormManager.BTN_ResetLanguage,English
+Control.MainFormManager.BTN_RunHash,哈希值
+Control.MainFormManager.BTN_RunLanServer,运行局域网服务器
+Control.MainFormManager.BTN_SaveModBuilderFile,保存更改
+Control.MainFormManager.BTN_UpdateAllMods,更新全部模组
+Control.MainFormManager.BTN_UpdateBase,更新基础组件
+Control.MainFormManager.BTN_UpdateMWWSE,更新 MWWSE
+Control.MainFormManager.CHK_AutoLaunch,调试 — 自动启动
+Control.MainFormManager.CHK_AutoLaunchOnStart,自动启动
+Control.MainFormManager.CHK_AutoUpdateLoader,下载时自动更新加载器
+Control.MainFormManager.CHK_ClearOnCompile,编译后清空
+Control.MainFormManager.CHK_CompileLua,编译为 LuaJIT
+Control.MainFormManager.CHK_GenerateDocumentation,生成文档
+Control.MainFormManager.CHK_InstallOnCompile,编译后安装
+Control.MainFormManager.CHK_Installlocally,替换 Steam 启动器
+Control.MainFormManager.CHK_LogWrap,日志自动换行
+Control.MainFormManager.CHK_Magicka2,测试版 — 启用 Magicka 2 模组
+Control.MainFormManager.CHK_OpenFolderOnCompile,编译后打开文件夹
+Control.MainFormManager.CHK_ReplaceSteamLauncher,替换 Steam 启动器
+Control.MainFormManager.CHK_StartWithSteam,通过 Steam 启动
+Control.MainFormManager.CHK_UseFlatModCards,使用简洁模组卡片
+Control.MainFormManager.CHK_UseFolderPathsAsName,使用文件夹路径
+Control.MainFormManager.LBL_AttachedMods,包含的文件
+Control.MainFormManager.LBL_Console,控制台
+Control.MainFormManager.LBL_Download,下载模组
+Control.MainFormManager.LBL_LanguagePack,语言
+Control.MainFormManager.LBL_LaunchMagicka,启动 Magicka
+Control.MainFormManager.LBL_ManageMods,管理模组
+Control.MainFormManager.LBL_ModDescription,简短描述
+Control.MainFormManager.LBL_ModName,模组名称
+Control.MainFormManager.LBL_ProjectFolder,项目文件夹
+Control.MainFormManager.LBL_Settings,设置
+Control.MainFormManager.LBL_StartupWindowSize,启动窗口大小
+Control.MainFormManager.LBL_Unpack,解包
+Control.MainFormManager.TAB_Console,控制台
+Control.MainFormManager.TAB_DownloadMods,下载模组
+Control.MainFormManager.TAB_ManageMods,管理模组
+Control.MainFormManager.TAB_ModBuilder,模组制作
+Control.MainFormManager.TAB_OptionsDir,选项
+Control.MainFormManager.label1,模组制作
+Control.MainFormManager.label10,文件夹位置
+Control.MainFormManager.label11,双击打开
+Control.MainFormManager.label12,设置
+Control.MainFormManager.label13,帮助
+Control.MainFormManager.label14,模组数据
+Control.MainFormManager.label15,启动选项
+Control.MainFormManager.label16,输入
+Control.MainFormManager.label17,输出
+Control.MainFormManager.label18,Wizard Wars 日志文件
+Control.MainFormManager.label2,更新
+Control.MainFormManager.label3,脚本扩展器兼容性
+Control.MainFormManager.label4,文件预览
+Control.MainFormManager.label5,Magicka 文件夹
+Control.MainFormManager.label6,模组加载器文件夹
+Control.MainFormManager.label7,模组文件夹
+Control.MainFormManager.label8,模组加载器设置文件
+Control.MainFormManager.label9,模组设置文件
+Control.ProjectManager.BTN_Test,清空模组
+Control.ProjectManager.LBL_DeleteMod,删除模组
+Control.ProjectManager.LBL_Documentation,更新文档
+Control.ProjectManager.LBL_EditSelectedMod,编辑所选模组
+Control.ProjectManager.LBL_ModName,主项目文件夹
+Control.ProjectManager.LBL_NewMod,新建模组
+Control.ProjectManager.LBL_OpenDocumentationFolder,打开文档
+Control.ProjectManager.LBL_OpenMod,打开模组文件夹
+Control.ProjectManager.label1,项目
+Control.RepositoryDialog.BTN_AddRepository,添加仓库
+Control.RepositoryDialog.BTN_RemoveRepository,移除所选项
+Control.RepositoryDialog.BTN_SaveRepositories,保存并关闭
+Control.RepositoryDialog.LBL_NewRepositoryLink,新仓库链接
+Control.RepositoryDialog.LBL_RepositoriesTitle,模组仓库
+Control.RepositoryDialog.LBL_RepositoryBranch,分支
+Editor.SaveChanges,要保存对 {0} 的更改吗？
+Editor.UnsavedTitle,未保存的源代码更改
+Error.Title,操作失败
+Featured.loader_update_panel.Description,检查是否有新版模组加载器。
+Featured.loader_update_panel.Title,"模组
+加载器"
+Featured.main_script_extender_panel.Description,让模组扩展、挂接和修改游戏的 Lua 代码。
+Featured.main_script_extender_panel.Title,"脚本
+扩展器"
+Featured.repositories_panel.Description,添加或移除模组列表的来源。
+Featured.repositories_panel.Title,"模组
+仓库"
+Featured.script_extender_panel.Description,让模组扩展、挂接和修改游戏的 Lua 代码。
+Featured.script_extender_panel.Title,"脚本
+扩展器"
+Language.Active,语言：{0}
+Language.CsvFilter,CSV 语言包
+Language.Custom,自定义 CSV：{0}
+ModInfo.Title,{0} 详情
+Safety.Cancel,否，取消
+Safety.Continue,是，继续
+Safety.ContinueQuestion,要继续吗？
+Safety.ImportMessage,所选内容可能包含与模组无关的个人文件。请检查下方的准确路径。如果是误选，请选择具体的模组包或其专用文件夹。继续操作会将所选内容及其所有子文件夹复制到加载器的本地工作区；不会上传文件。有关可执行内容的警告会在安装前单独确认。
+Safety.ImportTitle,检查导入选择
+Safety.PackageAction,继续操作会将这些文件与模组一起保存；游戏补丁更新还可能替换游戏文件。脚本和原生代码库可能在游戏加载它们时执行。内含的安装程序不会自动启动。
+Safety.PreviewAction,仅使用预览元数据和图标。其他预览文件会被忽略，绝不会执行。
+Safety.ReplacementReason,此包会替换从其他来源安装的模组。请检查每个列出的替换项和所有异常文件。文件名检查不等同于恶意软件扫描。
+Safety.ReplacementTitle,检查模组替换项
+Safety.RepositoryMessage,"外部仓库控制其提供的下载内容和未来更新。模组可能包含脚本或原生代码，覆盖游戏文件，或在被游戏加载时访问您的账户有权访问的文件。请仅添加您信任的来源。
+
+要添加此仓库吗？"
+Safety.RepositoryTitle,添加外部仓库？
+Safety.UnexpectedPackage,模组包中包含意外文件
+Safety.UnexpectedPreview,模组预览中包含意外文件
+Safety.UnexpectedReason,此下载包含可执行内容或不属于其正常格式的文件。文件名检查不等同于恶意软件扫描。
+Sort.Author,作者
+Sort.Caption.0,升序
+Sort.Caption.1,降序
+Sort.Caption.2,最新
+Sort.Caption.3,最早
+Sort.GroupingDescription,选择排序或分组方式
+Sort.Priority,优先级
+Sort.UnknownDateHint, — 每组中日期未知的项目排在最后
+Status.DisabledSuffix,（已禁用）
+Status.Installed,已安装
+Status.NotInstalled,未安装

@@ -1,0 +1,174 @@
+﻿Key,Translation
+Action.BTN_CatalogCheckExtenderUpdates,檢查更新
+Action.BTN_FrontCheckExtenderUpdates,檢查更新
+Action.BTN_FrontCheckLoaderUpdates,檢查更新
+Action.BTN_ManageRepositories,新增 / 移除
+Action.CreateMod,建立模組
+Action.DeleteMod,刪除
+Action.DisableMod,停用
+Action.DownloadMod,下載
+Action.EnableMod,啟用
+Action.InfoMod,資訊
+Action.OpenModFolder,開啟模組資料夾
+Action.Update_ButtonMod,更新
+Choice.Author groups,依作者分組
+Choice.Automatic (system),自動（系統語言）
+Choice.A–Z,遞增
+Choice.Compact — 2 columns,精簡 — 2 欄
+Choice.Default — 3 columns,預設 — 3 欄
+Choice.Deutsch,Deutsch
+Choice.Disabled first,已停用的優先
+Choice.Enabled first,已啟用的優先
+Choice.English,English
+Choice.Español,Español
+Choice.Français,Français
+Choice.Full screen (maximized),全螢幕（最大化）
+Choice.Imported CSV,已匯入的 CSV
+Choice.Installed first,已安裝的優先
+Choice.Name only,僅依名稱
+Choice.Newest downloads,最新下載優先
+Choice.Oldest downloads,最早下載優先
+Choice.Uninstalled first,未安裝的優先
+Choice.Z–A,遞減
+Choice.Русский,Русский
+Control.BitsquidUnpacker.BTN_OpenPNG,開啟 PNG 資料夾
+Control.BitsquidUnpacker.BTN_OpenRawFolder,開啟原始檔案資料夾
+Control.BitsquidUnpacker.BTN_UnpackFiles,解包選取項目
+Control.BitsquidUnpacker.LBL_Packs,資源包
+Control.BitsquidUnpacker.label1,已停用的模組
+Control.MainFormManager.BTN_CheckForUpdates,檢查更新
+Control.MainFormManager.BTN_Clear,清空模組
+Control.MainFormManager.BTN_ClearLoaderData,清除載入器資料
+Control.MainFormManager.BTN_ClearOutput,清空
+Control.MainFormManager.BTN_CompileMod,編譯模組
+Control.MainFormManager.BTN_CreateHelpFile,建立診斷檔案
+Control.MainFormManager.BTN_DeleteAllMods,刪除所有模組
+Control.MainFormManager.BTN_DesktopShortcut,桌面捷徑
+Control.MainFormManager.BTN_DisableAllMods,停用所有模組
+Control.MainFormManager.BTN_EnableAllMods,啟用所有模組
+Control.MainFormManager.BTN_ExportLanguage,匯出範本
+Control.MainFormManager.BTN_ImportLanguage,匯入 CSV
+Control.MainFormManager.BTN_LaunchSpectator,以觀戰模式執行
+Control.MainFormManager.BTN_MoveInstall,移動安裝位置
+Control.MainFormManager.BTN_OpenDiscord,開啟 Discord
+Control.MainFormManager.BTN_OpenMyModsFolder,開啟模組資料夾
+Control.MainFormManager.BTN_RefreshModFiles,重新整理專案
+Control.MainFormManager.BTN_RepoPackage,儲存庫範本
+Control.MainFormManager.BTN_ResetLanguage,English
+Control.MainFormManager.BTN_RunHash,雜湊值
+Control.MainFormManager.BTN_RunLanServer,執行區域網路伺服器
+Control.MainFormManager.BTN_SaveModBuilderFile,儲存變更
+Control.MainFormManager.BTN_UpdateAllMods,更新所有模組
+Control.MainFormManager.BTN_UpdateBase,更新基礎元件
+Control.MainFormManager.BTN_UpdateMWWSE,更新 MWWSE
+Control.MainFormManager.CHK_AutoLaunch,偵錯 — 自動啟動
+Control.MainFormManager.CHK_AutoLaunchOnStart,自動啟動
+Control.MainFormManager.CHK_AutoUpdateLoader,下載時自動更新載入器
+Control.MainFormManager.CHK_ClearOnCompile,編譯後清空
+Control.MainFormManager.CHK_CompileLua,編譯為 LuaJIT
+Control.MainFormManager.CHK_GenerateDocumentation,產生文件
+Control.MainFormManager.CHK_InstallOnCompile,編譯後安裝
+Control.MainFormManager.CHK_Installlocally,取代 Steam 啟動器
+Control.MainFormManager.CHK_LogWrap,記錄自動換行
+Control.MainFormManager.CHK_Magicka2,測試版 — 啟用 Magicka 2 模組
+Control.MainFormManager.CHK_OpenFolderOnCompile,編譯後開啟資料夾
+Control.MainFormManager.CHK_ReplaceSteamLauncher,取代 Steam 啟動器
+Control.MainFormManager.CHK_StartWithSteam,透過 Steam 啟動
+Control.MainFormManager.CHK_UseFlatModCards,使用簡潔模組卡片
+Control.MainFormManager.CHK_UseFolderPathsAsName,使用資料夾路徑
+Control.MainFormManager.LBL_AttachedMods,包含的檔案
+Control.MainFormManager.LBL_Console,主控台
+Control.MainFormManager.LBL_Download,下載模組
+Control.MainFormManager.LBL_LanguagePack,語言
+Control.MainFormManager.LBL_LaunchMagicka,啟動 Magicka
+Control.MainFormManager.LBL_ManageMods,管理模組
+Control.MainFormManager.LBL_ModDescription,簡短說明
+Control.MainFormManager.LBL_ModName,模組名稱
+Control.MainFormManager.LBL_ProjectFolder,專案資料夾
+Control.MainFormManager.LBL_Settings,設定
+Control.MainFormManager.LBL_StartupWindowSize,啟動視窗大小
+Control.MainFormManager.LBL_Unpack,解包
+Control.MainFormManager.TAB_Console,主控台
+Control.MainFormManager.TAB_DownloadMods,下載模組
+Control.MainFormManager.TAB_ManageMods,管理模組
+Control.MainFormManager.TAB_ModBuilder,模組製作
+Control.MainFormManager.TAB_OptionsDir,選項
+Control.MainFormManager.label1,模組製作
+Control.MainFormManager.label10,資料夾位置
+Control.MainFormManager.label11,按兩下以開啟
+Control.MainFormManager.label12,設定
+Control.MainFormManager.label13,說明
+Control.MainFormManager.label14,模組資料
+Control.MainFormManager.label15,啟動選項
+Control.MainFormManager.label16,輸入
+Control.MainFormManager.label17,輸出
+Control.MainFormManager.label18,Wizard Wars 記錄檔
+Control.MainFormManager.label2,更新
+Control.MainFormManager.label3,腳本擴充器相容性
+Control.MainFormManager.label4,檔案預覽
+Control.MainFormManager.label5,Magicka 資料夾
+Control.MainFormManager.label6,模組載入器資料夾
+Control.MainFormManager.label7,模組資料夾
+Control.MainFormManager.label8,模組載入器設定檔
+Control.MainFormManager.label9,模組設定檔
+Control.ProjectManager.BTN_Test,清空模組
+Control.ProjectManager.LBL_DeleteMod,刪除模組
+Control.ProjectManager.LBL_Documentation,更新文件
+Control.ProjectManager.LBL_EditSelectedMod,編輯選取的模組
+Control.ProjectManager.LBL_ModName,主要專案資料夾
+Control.ProjectManager.LBL_NewMod,新增模組
+Control.ProjectManager.LBL_OpenDocumentationFolder,開啟文件
+Control.ProjectManager.LBL_OpenMod,開啟模組資料夾
+Control.ProjectManager.label1,專案
+Control.RepositoryDialog.BTN_AddRepository,新增儲存庫
+Control.RepositoryDialog.BTN_RemoveRepository,移除選取項目
+Control.RepositoryDialog.BTN_SaveRepositories,儲存並關閉
+Control.RepositoryDialog.LBL_NewRepositoryLink,新儲存庫連結
+Control.RepositoryDialog.LBL_RepositoriesTitle,模組儲存庫
+Control.RepositoryDialog.LBL_RepositoryBranch,分支
+Editor.SaveChanges,要儲存對 {0} 的變更嗎？
+Editor.UnsavedTitle,未儲存的原始碼變更
+Error.Title,操作失敗
+Featured.loader_update_panel.Description,檢查是否有新版模組載入器。
+Featured.loader_update_panel.Title,"模組
+載入器"
+Featured.main_script_extender_panel.Description,讓模組擴充、攔截呼叫並修改遊戲的 Lua 程式碼。
+Featured.main_script_extender_panel.Title,"腳本
+擴充器"
+Featured.repositories_panel.Description,新增或移除模組清單的來源。
+Featured.repositories_panel.Title,"模組
+儲存庫"
+Featured.script_extender_panel.Description,讓模組擴充、攔截呼叫並修改遊戲的 Lua 程式碼。
+Featured.script_extender_panel.Title,"腳本
+擴充器"
+Language.Active,語言：{0}
+Language.CsvFilter,CSV 語言套件
+Language.Custom,自訂 CSV：{0}
+ModInfo.Title,{0} 資訊
+Safety.Cancel,否，取消
+Safety.Continue,是，繼續
+Safety.ContinueQuestion,要繼續嗎？
+Safety.ImportMessage,選取內容可能包含與模組無關的個人檔案。請檢查下方的完整路徑。如果是誤選，請選擇特定的模組套件或其專用資料夾。繼續操作會將選取內容及其所有子資料夾複製到載入器的本機工作區；不會上傳檔案。有關可執行內容的警告會在安裝前另行確認。
+Safety.ImportTitle,檢查匯入選擇
+Safety.PackageAction,繼續操作會將這些檔案與模組一同儲存；遊戲修補程式更新也可能取代遊戲檔案。指令碼和原生程式庫可能在遊戲載入時執行。內附的安裝程式不會自動啟動。
+Safety.PreviewAction,僅使用預覽中繼資料和圖示。其他預覽檔案會被忽略，絕不會執行。
+Safety.ReplacementReason,此套件會取代從其他來源安裝的模組。請檢查每個列出的取代項目和所有異常檔案。檔名檢查不等於惡意軟體掃描。
+Safety.ReplacementTitle,檢查模組取代項目
+Safety.RepositoryMessage,"外部儲存庫控制其下載內容及未來更新。模組可能包含指令碼或原生程式碼、覆寫遊戲檔案，或在遊戲載入時存取您帳戶有權存取的檔案。請僅新增您信任的來源。
+
+要新增此儲存庫嗎？"
+Safety.RepositoryTitle,新增外部儲存庫？
+Safety.UnexpectedPackage,模組套件中包含非預期檔案
+Safety.UnexpectedPreview,模組預覽中包含非預期檔案
+Safety.UnexpectedReason,此下載包含可執行內容或不屬於一般格式的檔案。檔名檢查不等於惡意軟體掃描。
+Sort.Author,作者
+Sort.Caption.0,遞增
+Sort.Caption.1,遞減
+Sort.Caption.2,最新
+Sort.Caption.3,最早
+Sort.GroupingDescription,選擇排序或分組方式
+Sort.Priority,優先順序
+Sort.UnknownDateHint, — 每組中日期不明的項目排在最後
+Status.DisabledSuffix,（已停用）
+Status.Installed,已安裝
+Status.NotInstalled,未安裝

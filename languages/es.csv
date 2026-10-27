@@ -1,0 +1,174 @@
+﻿Key,Translation
+Action.BTN_CatalogCheckExtenderUpdates,Buscar actualizaciones
+Action.BTN_FrontCheckExtenderUpdates,Buscar actualizaciones
+Action.BTN_FrontCheckLoaderUpdates,Buscar actualizaciones
+Action.BTN_ManageRepositories,Añadir / Quitar
+Action.CreateMod,Crear mod
+Action.DeleteMod,Borrar
+Action.DisableMod,Desact.
+Action.DownloadMod,Descargar
+Action.EnableMod,Activar
+Action.InfoMod,Info
+Action.OpenModFolder,Abrir carpeta de mods
+Action.Update_ButtonMod,Actualizar
+Choice.Author groups,Agrupar por autor
+Choice.Automatic (system),Automático (sistema)
+Choice.A–Z,A–Z
+Choice.Compact — 2 columns,Compacto: 2 columnas
+Choice.Default — 3 columns,Predeterminado: 3 columnas
+Choice.Deutsch,Deutsch
+Choice.Disabled first,Desactivados primero
+Choice.Enabled first,Activados primero
+Choice.English,English
+Choice.Español,Español
+Choice.Français,Français
+Choice.Full screen (maximized),Pantalla completa
+Choice.Imported CSV,CSV importado
+Choice.Installed first,Instalados primero
+Choice.Name only,Solo por nombre
+Choice.Newest downloads,Descargas más recientes
+Choice.Oldest downloads,Descargas más antiguas
+Choice.Uninstalled first,No instalados primero
+Choice.Z–A,Z–A
+Choice.Русский,Русский
+Control.BitsquidUnpacker.BTN_OpenPNG,Abrir carpeta PNG
+Control.BitsquidUnpacker.BTN_OpenRawFolder,Abrir carpeta de archivos originales
+Control.BitsquidUnpacker.BTN_UnpackFiles,Extraer seleccionados
+Control.BitsquidUnpacker.LBL_Packs,Paquetes
+Control.BitsquidUnpacker.label1,Mods desactivados
+Control.MainFormManager.BTN_CheckForUpdates,Buscar actualizaciones
+Control.MainFormManager.BTN_Clear,Limpiar mod
+Control.MainFormManager.BTN_ClearLoaderData,Borrar datos del cargador
+Control.MainFormManager.BTN_ClearOutput,Limpiar
+Control.MainFormManager.BTN_CompileMod,Compilar mod
+Control.MainFormManager.BTN_CreateHelpFile,Crear informe
+Control.MainFormManager.BTN_DeleteAllMods,Borrar todos los mods
+Control.MainFormManager.BTN_DesktopShortcut,Acceso en el escritorio
+Control.MainFormManager.BTN_DisableAllMods,Desactivar todos los mods
+Control.MainFormManager.BTN_EnableAllMods,Activar todos los mods
+Control.MainFormManager.BTN_ExportLanguage,Exportar plantilla
+Control.MainFormManager.BTN_ImportLanguage,Importar CSV
+Control.MainFormManager.BTN_LaunchSpectator,Iniciar como espectador
+Control.MainFormManager.BTN_MoveInstall,Mover instalación
+Control.MainFormManager.BTN_OpenDiscord,Abrir Discord
+Control.MainFormManager.BTN_OpenMyModsFolder,Abrir carpeta de mods
+Control.MainFormManager.BTN_RefreshModFiles,Actualizar proyecto
+Control.MainFormManager.BTN_RepoPackage,Plantilla del repositorio
+Control.MainFormManager.BTN_ResetLanguage,English
+Control.MainFormManager.BTN_RunHash,Hash
+Control.MainFormManager.BTN_RunLanServer,Iniciar servidor LAN
+Control.MainFormManager.BTN_SaveModBuilderFile,Guardar cambios
+Control.MainFormManager.BTN_UpdateAllMods,Actualizar todos los mods
+Control.MainFormManager.BTN_UpdateBase,Actualizar base
+Control.MainFormManager.BTN_UpdateMWWSE,Actualizar MWWSE
+Control.MainFormManager.CHK_AutoLaunch,DEPURACIÓN: inicio automático
+Control.MainFormManager.CHK_AutoLaunchOnStart,Inicio automático
+Control.MainFormManager.CHK_AutoUpdateLoader,Actualizar el cargador durante las descargas
+Control.MainFormManager.CHK_ClearOnCompile,Limpiar tras compilar
+Control.MainFormManager.CHK_CompileLua,Compilar con LuaJIT
+Control.MainFormManager.CHK_GenerateDocumentation,Generar documentación
+Control.MainFormManager.CHK_InstallOnCompile,Instalar tras compilar
+Control.MainFormManager.CHK_Installlocally,Reemplazar lanzador de Steam
+Control.MainFormManager.CHK_LogWrap,Ajustar líneas del registro
+Control.MainFormManager.CHK_Magicka2,BETA: mods de Magicka 2
+Control.MainFormManager.CHK_OpenFolderOnCompile,Abrir carpeta tras compilar
+Control.MainFormManager.CHK_ReplaceSteamLauncher,Reemplazar lanzador de Steam
+Control.MainFormManager.CHK_StartWithSteam,Iniciar mediante Steam
+Control.MainFormManager.CHK_UseFlatModCards,Tarjetas de mods planas
+Control.MainFormManager.CHK_UseFolderPathsAsName,Usar ruta de carpetas
+Control.MainFormManager.LBL_AttachedMods,Archivos incluidos
+Control.MainFormManager.LBL_Console,Consola
+Control.MainFormManager.LBL_Download,Descargar mods
+Control.MainFormManager.LBL_LanguagePack,Idioma
+Control.MainFormManager.LBL_LaunchMagicka,Iniciar Magicka
+Control.MainFormManager.LBL_ManageMods,Gestionar mods
+Control.MainFormManager.LBL_ModDescription,Descripción breve
+Control.MainFormManager.LBL_ModName,Nombre del mod
+Control.MainFormManager.LBL_ProjectFolder,Carpeta del proyecto
+Control.MainFormManager.LBL_Settings,Ajustes
+Control.MainFormManager.LBL_StartupWindowSize,Tamaño inicial de ventana
+Control.MainFormManager.LBL_Unpack,Extraer
+Control.MainFormManager.TAB_Console,Consola
+Control.MainFormManager.TAB_DownloadMods,Descargar mods
+Control.MainFormManager.TAB_ManageMods,Gestionar mods
+Control.MainFormManager.TAB_ModBuilder,Crear mods
+Control.MainFormManager.TAB_OptionsDir,Opciones
+Control.MainFormManager.label1,Crear mods
+Control.MainFormManager.label10,Carpetas
+Control.MainFormManager.label11,doble clic para abrir
+Control.MainFormManager.label12,Ajustes
+Control.MainFormManager.label13,Ayuda
+Control.MainFormManager.label14,Datos de mods
+Control.MainFormManager.label15,Opciones de inicio
+Control.MainFormManager.label16,Entrada
+Control.MainFormManager.label17,Salida
+Control.MainFormManager.label18,Registro de Wizard Wars
+Control.MainFormManager.label2,Actualizaciones
+Control.MainFormManager.label3,Compatibilidad con Script Extender
+Control.MainFormManager.label4,Vista del archivo
+Control.MainFormManager.label5,Carpeta de Magicka
+Control.MainFormManager.label6,Carpeta del cargador
+Control.MainFormManager.label7,Carpeta de mods
+Control.MainFormManager.label8,Archivo de ajustes del cargador
+Control.MainFormManager.label9,Archivo de ajustes de mods
+Control.ProjectManager.BTN_Test,Limpiar mod
+Control.ProjectManager.LBL_DeleteMod,Borrar mod
+Control.ProjectManager.LBL_Documentation,Actualizar documentación
+Control.ProjectManager.LBL_EditSelectedMod,Editar mod seleccionado
+Control.ProjectManager.LBL_ModName,Carpeta principal de proyectos
+Control.ProjectManager.LBL_NewMod,Nuevo mod
+Control.ProjectManager.LBL_OpenDocumentationFolder,Abrir documentación
+Control.ProjectManager.LBL_OpenMod,Abrir carpeta de mods
+Control.ProjectManager.label1,Proyectos
+Control.RepositoryDialog.BTN_AddRepository,Añadir repositorio
+Control.RepositoryDialog.BTN_RemoveRepository,Quitar seleccionado
+Control.RepositoryDialog.BTN_SaveRepositories,Guardar y cerrar
+Control.RepositoryDialog.LBL_NewRepositoryLink,Enlace del nuevo repositorio
+Control.RepositoryDialog.LBL_RepositoriesTitle,Repositorios de mods
+Control.RepositoryDialog.LBL_RepositoryBranch,Rama
+Editor.SaveChanges,¿Guardar los cambios en {0}?
+Editor.UnsavedTitle,Cambios sin guardar
+Error.Title,Error de operación
+Featured.loader_update_panel.Description,Busca una nueva versión del cargador de mods.
+Featured.loader_update_panel.Title,"Cargador
+de mods"
+Featured.main_script_extender_panel.Description,Permite ampliar e intervenir en el código Lua del juego.
+Featured.main_script_extender_panel.Title,"Extensión
+de Lua"
+Featured.repositories_panel.Description,Añade o elimina fuentes de mods.
+Featured.repositories_panel.Title,"Fuentes
+de mods"
+Featured.script_extender_panel.Description,Permite ampliar e intervenir en el código Lua del juego.
+Featured.script_extender_panel.Title,"Extensión
+de Lua"
+Language.Active,Idioma: {0}
+Language.CsvFilter,Paquete de idioma CSV
+Language.Custom,CSV propio: {0}
+ModInfo.Title,Información de {0}
+Safety.Cancel,"No, cancelar"
+Safety.Continue,"Sí, continuar"
+Safety.ContinueQuestion,¿Quieres continuar?
+Safety.ImportMessage,"La selección puede incluir archivos personales ajenos al mod. Comprueba las rutas exactas de abajo. Si fue un error, selecciona el paquete de mod o su carpeta específica. Al continuar, la selección se copiará recursivamente al área de trabajo local del cargador; no se subirán archivos. Las advertencias sobre contenido ejecutable se revisan por separado antes de instalar."
+Safety.ImportTitle,Revisar selección de importación
+Safety.PackageAction,"Al continuar, estos archivos se guardarán con el mod; las actualizaciones de parches también pueden reemplazar archivos del juego. Los scripts y las bibliotecas nativas pueden ejecutarse al cargarse en el juego. Los instaladores incluidos no se inician automáticamente."
+Safety.PreviewAction,Solo se usarán los metadatos de vista previa y el icono. Los archivos adicionales se ignorarán y nunca se ejecutarán.
+Safety.ReplacementReason,Este paquete reemplaza mods instalados desde otra fuente. Revisa cada reemplazo y los archivos inusuales. Comprobar los nombres no equivale a un análisis de malware.
+Safety.ReplacementTitle,Revisar reemplazos de mods
+Safety.RepositoryMessage,"Un repositorio externo controla sus descargas y futuras actualizaciones. Los mods pueden contener scripts o código nativo, sobrescribir archivos del juego o acceder a los archivos de tu cuenta al cargarse en el juego. Añade solo fuentes de confianza.
+
+¿Quieres añadir este repositorio?"
+Safety.RepositoryTitle,¿Añadir un repositorio externo?
+Safety.UnexpectedPackage,Archivos inesperados en el paquete del mod
+Safety.UnexpectedPreview,Archivos inesperados en la vista previa
+Safety.UnexpectedReason,Esta descarga incluye contenido ejecutable o archivos ajenos a su formato normal. Comprobar los nombres no equivale a un análisis de malware.
+Sort.Author,Autor
+Sort.Caption.0,A–Z
+Sort.Caption.1,Z–A
+Sort.Caption.2,Recientes
+Sort.Caption.3,Antiguos
+Sort.GroupingDescription,Elige el orden o la agrupación
+Sort.Priority,Prioridad
+Sort.UnknownDateHint, — las fechas desconocidas van al final de cada grupo
+Status.DisabledSuffix, (desactivado)
+Status.Installed,Instalado
+Status.NotInstalled,No instalado

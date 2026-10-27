@@ -1,0 +1,174 @@
+﻿Key,Translation
+Action.BTN_CatalogCheckExtenderUpdates,업데이트 확인
+Action.BTN_FrontCheckExtenderUpdates,업데이트 확인
+Action.BTN_FrontCheckLoaderUpdates,업데이트 확인
+Action.BTN_ManageRepositories,추가 / 제거
+Action.CreateMod,모드 만들기
+Action.DeleteMod,삭제
+Action.DisableMod,끄기
+Action.DownloadMod,다운로드
+Action.EnableMod,켜기
+Action.InfoMod,정보
+Action.OpenModFolder,모드 폴더 열기
+Action.Update_ButtonMod,업데이트
+Choice.Author groups,제작자별 그룹
+Choice.Automatic (system),자동 (시스템 언어)
+Choice.A–Z,오름차순
+Choice.Compact — 2 columns,작게 — 2열
+Choice.Default — 3 columns,기본 — 3열
+Choice.Deutsch,Deutsch
+Choice.Disabled first,비활성 모드 먼저
+Choice.Enabled first,활성 모드 먼저
+Choice.English,English
+Choice.Español,Español
+Choice.Français,Français
+Choice.Full screen (maximized),전체 화면 (최대화)
+Choice.Imported CSV,가져온 CSV
+Choice.Installed first,설치된 모드 먼저
+Choice.Name only,이름순
+Choice.Newest downloads,최근 다운로드 먼저
+Choice.Oldest downloads,오래된 다운로드 먼저
+Choice.Uninstalled first,미설치 모드 먼저
+Choice.Z–A,내림차순
+Choice.Русский,Русский
+Control.BitsquidUnpacker.BTN_OpenPNG,PNG 폴더 열기
+Control.BitsquidUnpacker.BTN_OpenRawFolder,원본 파일 폴더 열기
+Control.BitsquidUnpacker.BTN_UnpackFiles,선택 항목 압축 풀기
+Control.BitsquidUnpacker.LBL_Packs,패키지
+Control.BitsquidUnpacker.label1,비활성 모드
+Control.MainFormManager.BTN_CheckForUpdates,업데이트 확인
+Control.MainFormManager.BTN_Clear,모드 초기화
+Control.MainFormManager.BTN_ClearLoaderData,로더 데이터 삭제
+Control.MainFormManager.BTN_ClearOutput,초기화
+Control.MainFormManager.BTN_CompileMod,모드 컴파일
+Control.MainFormManager.BTN_CreateHelpFile,진단 파일 만들기
+Control.MainFormManager.BTN_DeleteAllMods,모든 모드 삭제
+Control.MainFormManager.BTN_DesktopShortcut,바탕 화면 바로 가기
+Control.MainFormManager.BTN_DisableAllMods,모든 모드 끄기
+Control.MainFormManager.BTN_EnableAllMods,모든 모드 켜기
+Control.MainFormManager.BTN_ExportLanguage,템플릿 내보내기
+Control.MainFormManager.BTN_ImportLanguage,CSV 가져오기
+Control.MainFormManager.BTN_LaunchSpectator,관전자 모드로 실행
+Control.MainFormManager.BTN_MoveInstall,설치 위치 이동
+Control.MainFormManager.BTN_OpenDiscord,Discord 열기
+Control.MainFormManager.BTN_OpenMyModsFolder,모드 폴더 열기
+Control.MainFormManager.BTN_RefreshModFiles,프로젝트 새로 고침
+Control.MainFormManager.BTN_RepoPackage,저장소 템플릿
+Control.MainFormManager.BTN_ResetLanguage,English
+Control.MainFormManager.BTN_RunHash,해시
+Control.MainFormManager.BTN_RunLanServer,LAN 서버 실행
+Control.MainFormManager.BTN_SaveModBuilderFile,변경 사항 저장
+Control.MainFormManager.BTN_UpdateAllMods,모든 모드 업데이트
+Control.MainFormManager.BTN_UpdateBase,기본 구성 요소 업데이트
+Control.MainFormManager.BTN_UpdateMWWSE,MWWSE 업데이트
+Control.MainFormManager.CHK_AutoLaunch,디버그 — 자동 실행
+Control.MainFormManager.CHK_AutoLaunchOnStart,자동 실행
+Control.MainFormManager.CHK_AutoUpdateLoader,다운로드 중 로더 자동 업데이트
+Control.MainFormManager.CHK_ClearOnCompile,컴파일 후 초기화
+Control.MainFormManager.CHK_CompileLua,LuaJIT로 컴파일
+Control.MainFormManager.CHK_GenerateDocumentation,문서 생성
+Control.MainFormManager.CHK_InstallOnCompile,컴파일 후 설치
+Control.MainFormManager.CHK_Installlocally,Steam 실행기 교체
+Control.MainFormManager.CHK_LogWrap,로그 자동 줄 바꿈
+Control.MainFormManager.CHK_Magicka2,베타 — Magicka 2 모드 활성화
+Control.MainFormManager.CHK_OpenFolderOnCompile,컴파일 후 폴더 열기
+Control.MainFormManager.CHK_ReplaceSteamLauncher,Steam 실행기 교체
+Control.MainFormManager.CHK_StartWithSteam,Steam으로 실행
+Control.MainFormManager.CHK_UseFlatModCards,단색 모드 카드 사용
+Control.MainFormManager.CHK_UseFolderPathsAsName,폴더 경로 사용
+Control.MainFormManager.LBL_AttachedMods,포함된 파일
+Control.MainFormManager.LBL_Console,콘솔
+Control.MainFormManager.LBL_Download,모드 다운로드
+Control.MainFormManager.LBL_LanguagePack,언어
+Control.MainFormManager.LBL_LaunchMagicka,Magicka 실행
+Control.MainFormManager.LBL_ManageMods,모드 관리
+Control.MainFormManager.LBL_ModDescription,간단한 설명
+Control.MainFormManager.LBL_ModName,모드 이름
+Control.MainFormManager.LBL_ProjectFolder,프로젝트 폴더
+Control.MainFormManager.LBL_Settings,설정
+Control.MainFormManager.LBL_StartupWindowSize,시작 창 크기
+Control.MainFormManager.LBL_Unpack,압축 풀기
+Control.MainFormManager.TAB_Console,콘솔
+Control.MainFormManager.TAB_DownloadMods,모드 다운로드
+Control.MainFormManager.TAB_ManageMods,모드 관리
+Control.MainFormManager.TAB_ModBuilder,모드 제작
+Control.MainFormManager.TAB_OptionsDir,옵션
+Control.MainFormManager.label1,모드 제작
+Control.MainFormManager.label10,폴더 위치
+Control.MainFormManager.label11,두 번 클릭하여 열기
+Control.MainFormManager.label12,설정
+Control.MainFormManager.label13,도움말
+Control.MainFormManager.label14,모드 데이터
+Control.MainFormManager.label15,실행 옵션
+Control.MainFormManager.label16,입력
+Control.MainFormManager.label17,출력
+Control.MainFormManager.label18,Wizard Wars 로그 파일
+Control.MainFormManager.label2,업데이트
+Control.MainFormManager.label3,스크립트 확장기 호환성
+Control.MainFormManager.label4,파일 미리 보기
+Control.MainFormManager.label5,Magicka 폴더
+Control.MainFormManager.label6,모드 로더 폴더
+Control.MainFormManager.label7,모드 폴더
+Control.MainFormManager.label8,모드 로더 설정 파일
+Control.MainFormManager.label9,모드 설정 파일
+Control.ProjectManager.BTN_Test,모드 초기화
+Control.ProjectManager.LBL_DeleteMod,모드 삭제
+Control.ProjectManager.LBL_Documentation,문서 업데이트
+Control.ProjectManager.LBL_EditSelectedMod,선택한 모드 편집
+Control.ProjectManager.LBL_ModName,기본 프로젝트 폴더
+Control.ProjectManager.LBL_NewMod,새 모드
+Control.ProjectManager.LBL_OpenDocumentationFolder,문서 열기
+Control.ProjectManager.LBL_OpenMod,모드 폴더 열기
+Control.ProjectManager.label1,프로젝트
+Control.RepositoryDialog.BTN_AddRepository,저장소 추가
+Control.RepositoryDialog.BTN_RemoveRepository,선택 항목 제거
+Control.RepositoryDialog.BTN_SaveRepositories,저장 후 닫기
+Control.RepositoryDialog.LBL_NewRepositoryLink,새 저장소 링크
+Control.RepositoryDialog.LBL_RepositoriesTitle,모드 저장소
+Control.RepositoryDialog.LBL_RepositoryBranch,브랜치
+Editor.SaveChanges,{0}의 변경 사항을 저장하시겠습니까?
+Editor.UnsavedTitle,저장하지 않은 소스 변경 사항
+Error.Title,작업 실패
+Featured.loader_update_panel.Description,새 모드 로더 버전을 확인합니다.
+Featured.loader_update_panel.Title,"모드
+로더"
+Featured.main_script_extender_panel.Description,모드가 게임의 Lua 코드를 확장하고 후킹하며 수정할 수 있게 합니다.
+Featured.main_script_extender_panel.Title,"스크립트
+확장기"
+Featured.repositories_panel.Description,모드 목록의 출처를 추가하거나 제거합니다.
+Featured.repositories_panel.Title,"모드
+저장소"
+Featured.script_extender_panel.Description,모드가 게임의 Lua 코드를 확장하고 후킹하며 수정할 수 있게 합니다.
+Featured.script_extender_panel.Title,"스크립트
+확장기"
+Language.Active,언어: {0}
+Language.CsvFilter,CSV 언어 팩
+Language.Custom,사용자 CSV: {0}
+ModInfo.Title,{0} 정보
+Safety.Cancel,"아니요, 취소"
+Safety.Continue,"예, 계속"
+Safety.ContinueQuestion,계속하시겠습니까?
+Safety.ImportMessage,선택 항목에 모드와 관계없는 개인 파일이 포함되어 있을 수 있습니다. 아래의 정확한 경로를 확인하세요. 실수로 선택했다면 해당 모드 패키지나 전용 폴더만 선택하세요. 계속하면 선택한 항목과 모든 하위 폴더가 로더의 로컬 작업 영역으로 복사되며 파일은 업로드되지 않습니다. 실행 가능한 내용에 대한 경고는 설치 전에 별도로 확인합니다.
+Safety.ImportTitle,가져오기 선택 항목 검토
+Safety.PackageAction,계속하면 이 파일들이 모드와 함께 저장되며 게임 패치 업데이트는 게임 파일도 교체할 수 있습니다. 스크립트와 네이티브 라이브러리는 게임이 불러올 때 실행될 수 있습니다. 포함된 설치 프로그램은 자동으로 실행되지 않습니다.
+Safety.PreviewAction,미리 보기 메타데이터와 아이콘만 사용합니다. 추가 미리 보기 파일은 무시되며 절대 실행되지 않습니다.
+Safety.ReplacementReason,이 패키지는 다른 출처에서 설치한 모드를 교체합니다. 나열된 교체 항목과 특이한 파일을 모두 검토하세요. 파일 이름 확인은 악성코드 검사가 아닙니다.
+Safety.ReplacementTitle,모드 교체 항목 검토
+Safety.RepositoryMessage,"외부 저장소는 제공하는 다운로드와 향후 업데이트를 직접 관리합니다. 모드에 스크립트나 네이티브 코드가 포함될 수 있으며, 게임 파일을 덮어쓰거나 게임이 불러올 때 사용자 계정으로 접근할 수 있는 파일에 접근할 수 있습니다. 신뢰하는 출처만 추가하세요.
+
+이 저장소를 추가하시겠습니까?"
+Safety.RepositoryTitle,외부 저장소를 추가하시겠습니까?
+Safety.UnexpectedPackage,모드 패키지의 예상치 못한 파일
+Safety.UnexpectedPreview,모드 미리 보기의 예상치 못한 파일
+Safety.UnexpectedReason,이 다운로드에는 실행 가능한 내용이나 일반적인 형식에 속하지 않는 파일이 포함되어 있습니다. 파일 이름 확인은 악성코드 검사가 아닙니다.
+Sort.Author,제작자
+Sort.Caption.0,오름차순
+Sort.Caption.1,내림차순
+Sort.Caption.2,최신순
+Sort.Caption.3,오래된순
+Sort.GroupingDescription,정렬 또는 그룹 방식 선택
+Sort.Priority,우선순위
+Sort.UnknownDateHint, — 날짜를 알 수 없는 항목은 각 그룹의 마지막에 표시됩니다
+Status.DisabledSuffix, (비활성)
+Status.Installed,설치됨
+Status.NotInstalled,미설치

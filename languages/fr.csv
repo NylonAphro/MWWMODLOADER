@@ -1,0 +1,174 @@
+﻿Key,Translation
+Action.BTN_CatalogCheckExtenderUpdates,Vérifier les mises à jour
+Action.BTN_FrontCheckExtenderUpdates,Vérifier les mises à jour
+Action.BTN_FrontCheckLoaderUpdates,Vérifier les mises à jour
+Action.BTN_ManageRepositories,Ajouter / Retirer
+Action.CreateMod,Créer un mod
+Action.DeleteMod,Supprimer
+Action.DisableMod,Désact.
+Action.DownloadMod,Télécharger
+Action.EnableMod,Activer
+Action.InfoMod,Infos
+Action.OpenModFolder,Ouvrir le dossier des mods
+Action.Update_ButtonMod,Actualiser
+Choice.Author groups,Grouper par auteur
+Choice.Automatic (system),Automatique (système)
+Choice.A–Z,A–Z
+Choice.Compact — 2 columns,Compact : 2 colonnes
+Choice.Default — 3 columns,Par défaut : 3 colonnes
+Choice.Deutsch,Deutsch
+Choice.Disabled first,Désactivés en premier
+Choice.Enabled first,Activés en premier
+Choice.English,English
+Choice.Español,Español
+Choice.Français,Français
+Choice.Full screen (maximized),Plein écran
+Choice.Imported CSV,CSV importé
+Choice.Installed first,Installés en premier
+Choice.Name only,Nom uniquement
+Choice.Newest downloads,Téléchargements les plus récents
+Choice.Oldest downloads,Téléchargements les plus anciens
+Choice.Uninstalled first,Non installés en premier
+Choice.Z–A,Z–A
+Choice.Русский,Русский
+Control.BitsquidUnpacker.BTN_OpenPNG,Ouvrir le dossier PNG
+Control.BitsquidUnpacker.BTN_OpenRawFolder,Ouvrir le dossier des fichiers bruts
+Control.BitsquidUnpacker.BTN_UnpackFiles,Extraire la sélection
+Control.BitsquidUnpacker.LBL_Packs,Paquets
+Control.BitsquidUnpacker.label1,Mods désactivés
+Control.MainFormManager.BTN_CheckForUpdates,Vérifier les mises à jour
+Control.MainFormManager.BTN_Clear,Effacer le mod
+Control.MainFormManager.BTN_ClearLoaderData,Effacer les données du chargeur
+Control.MainFormManager.BTN_ClearOutput,Effacer
+Control.MainFormManager.BTN_CompileMod,Compiler le mod
+Control.MainFormManager.BTN_CreateHelpFile,Créer un rapport
+Control.MainFormManager.BTN_DeleteAllMods,Supprimer tous les mods
+Control.MainFormManager.BTN_DesktopShortcut,Raccourci sur le bureau
+Control.MainFormManager.BTN_DisableAllMods,Désactiver tous les mods
+Control.MainFormManager.BTN_EnableAllMods,Activer tous les mods
+Control.MainFormManager.BTN_ExportLanguage,Exporter le modèle
+Control.MainFormManager.BTN_ImportLanguage,Importer un CSV
+Control.MainFormManager.BTN_LaunchSpectator,Lancer en spectateur
+Control.MainFormManager.BTN_MoveInstall,Déplacer l’installation
+Control.MainFormManager.BTN_OpenDiscord,Ouvrir Discord
+Control.MainFormManager.BTN_OpenMyModsFolder,Ouvrir le dossier des mods
+Control.MainFormManager.BTN_RefreshModFiles,Actualiser le projet
+Control.MainFormManager.BTN_RepoPackage,Modèle de dépôt
+Control.MainFormManager.BTN_ResetLanguage,English
+Control.MainFormManager.BTN_RunHash,Empreinte
+Control.MainFormManager.BTN_RunLanServer,Lancer le serveur LAN
+Control.MainFormManager.BTN_SaveModBuilderFile,Enregistrer les modifications
+Control.MainFormManager.BTN_UpdateAllMods,Mettre à jour tous les mods
+Control.MainFormManager.BTN_UpdateBase,Mettre à jour la base
+Control.MainFormManager.BTN_UpdateMWWSE,Mettre à jour MWWSE
+Control.MainFormManager.CHK_AutoLaunch,DÉBOGAGE : lancement automatique
+Control.MainFormManager.CHK_AutoLaunchOnStart,Lancement automatique
+Control.MainFormManager.CHK_AutoUpdateLoader,Mise à jour du chargeur pendant les téléchargements
+Control.MainFormManager.CHK_ClearOnCompile,Effacer après compilation
+Control.MainFormManager.CHK_CompileLua,Compiler avec LuaJIT
+Control.MainFormManager.CHK_GenerateDocumentation,Générer la documentation
+Control.MainFormManager.CHK_InstallOnCompile,Installer après compilation
+Control.MainFormManager.CHK_Installlocally,Remplacer le lanceur Steam
+Control.MainFormManager.CHK_LogWrap,Renvoyer les lignes du journal
+Control.MainFormManager.CHK_Magicka2,BÊTA : mods pour Magicka 2
+Control.MainFormManager.CHK_OpenFolderOnCompile,Ouvrir le dossier après compilation
+Control.MainFormManager.CHK_ReplaceSteamLauncher,Remplacer le lanceur Steam
+Control.MainFormManager.CHK_StartWithSteam,Lancer via Steam
+Control.MainFormManager.CHK_UseFlatModCards,Cartes de mods plates
+Control.MainFormManager.CHK_UseFolderPathsAsName,Utiliser le chemin du dossier
+Control.MainFormManager.LBL_AttachedMods,Fichiers inclus
+Control.MainFormManager.LBL_Console,Console
+Control.MainFormManager.LBL_Download,Télécharger des mods
+Control.MainFormManager.LBL_LanguagePack,Langue
+Control.MainFormManager.LBL_LaunchMagicka,Lancer Magicka
+Control.MainFormManager.LBL_ManageMods,Gérer les mods
+Control.MainFormManager.LBL_ModDescription,Description courte
+Control.MainFormManager.LBL_ModName,Nom du mod
+Control.MainFormManager.LBL_ProjectFolder,Dossier du projet
+Control.MainFormManager.LBL_Settings,Paramètres
+Control.MainFormManager.LBL_StartupWindowSize,Taille de la fenêtre au démarrage
+Control.MainFormManager.LBL_Unpack,Extraire
+Control.MainFormManager.TAB_Console,Console
+Control.MainFormManager.TAB_DownloadMods,Télécharger des mods
+Control.MainFormManager.TAB_ManageMods,Gérer les mods
+Control.MainFormManager.TAB_ModBuilder,Création de mods
+Control.MainFormManager.TAB_OptionsDir,Options
+Control.MainFormManager.label1,Création de mods
+Control.MainFormManager.label10,Dossiers
+Control.MainFormManager.label11,double-cliquez pour ouvrir
+Control.MainFormManager.label12,Paramètres
+Control.MainFormManager.label13,Aide
+Control.MainFormManager.label14,Données des mods
+Control.MainFormManager.label15,Options de lancement
+Control.MainFormManager.label16,Entrée
+Control.MainFormManager.label17,Sortie
+Control.MainFormManager.label18,Journal de Wizard Wars
+Control.MainFormManager.label2,Mises à jour
+Control.MainFormManager.label3,Compatibilité avec Script Extender
+Control.MainFormManager.label4,Aperçu du fichier
+Control.MainFormManager.label5,Dossier de Magicka
+Control.MainFormManager.label6,Dossier du chargeur
+Control.MainFormManager.label7,Dossier des mods
+Control.MainFormManager.label8,Fichier de paramètres du chargeur
+Control.MainFormManager.label9,Fichier de paramètres des mods
+Control.ProjectManager.BTN_Test,Effacer le mod
+Control.ProjectManager.LBL_DeleteMod,Supprimer le mod
+Control.ProjectManager.LBL_Documentation,Mettre à jour la documentation
+Control.ProjectManager.LBL_EditSelectedMod,Modifier le mod sélectionné
+Control.ProjectManager.LBL_ModName,Dossier principal des projets
+Control.ProjectManager.LBL_NewMod,Nouveau mod
+Control.ProjectManager.LBL_OpenDocumentationFolder,Ouvrir la documentation
+Control.ProjectManager.LBL_OpenMod,Ouvrir le dossier des mods
+Control.ProjectManager.label1,Projets
+Control.RepositoryDialog.BTN_AddRepository,Ajouter un dépôt
+Control.RepositoryDialog.BTN_RemoveRepository,Retirer la sélection
+Control.RepositoryDialog.BTN_SaveRepositories,Enregistrer et fermer
+Control.RepositoryDialog.LBL_NewRepositoryLink,Lien du nouveau dépôt
+Control.RepositoryDialog.LBL_RepositoriesTitle,Dépôts de mods
+Control.RepositoryDialog.LBL_RepositoryBranch,Branche
+Editor.SaveChanges,Enregistrer les modifications de {0} ?
+Editor.UnsavedTitle,Modifications non enregistrées
+Error.Title,Échec de l’opération
+Featured.loader_update_panel.Description,Recherchez une nouvelle version du chargeur de mods.
+Featured.loader_update_panel.Title,"Chargeur
+de mods"
+Featured.main_script_extender_panel.Description,Permet aux mods d’étendre et de modifier le code Lua du jeu.
+Featured.main_script_extender_panel.Title,"Extension
+Lua"
+Featured.repositories_panel.Description,Ajoutez ou retirez des sources de mods.
+Featured.repositories_panel.Title,"Dépôts
+de mods"
+Featured.script_extender_panel.Description,Permet aux mods d’étendre et de modifier le code Lua du jeu.
+Featured.script_extender_panel.Title,"Extension
+Lua"
+Language.Active,Langue : {0}
+Language.CsvFilter,Module linguistique CSV
+Language.Custom,CSV personnalisé : {0}
+ModInfo.Title,Informations sur {0}
+Safety.Cancel,"Non, annuler"
+Safety.Continue,"Oui, continuer"
+Safety.ContinueQuestion,Voulez-vous continuer ?
+Safety.ImportMessage,"La sélection peut contenir des fichiers personnels sans rapport avec le mod. Vérifiez les chemins exacts ci-dessous. En cas d’erreur, sélectionnez le paquet du mod ou son dossier dédié. En continuant, la sélection et ses sous-dossiers seront copiés dans l’espace de travail local du chargeur ; aucun fichier ne sera envoyé. Tout avertissement sur du contenu exécutable sera examiné séparément avant l’installation."
+Safety.ImportTitle,Vérifier la sélection à importer
+Safety.PackageAction,"En continuant, ces fichiers seront conservés avec le mod ; les mises à jour des correctifs peuvent aussi remplacer des fichiers du jeu. Les scripts et bibliothèques natives peuvent s’exécuter lors du chargement par le jeu. Les programmes d’installation inclus ne sont pas lancés automatiquement."
+Safety.PreviewAction,Seules les métadonnées d’aperçu et l’icône seront utilisées. Les fichiers d’aperçu supplémentaires seront ignorés et ne seront jamais exécutés.
+Safety.ReplacementReason,Ce paquet remplace des mods installés depuis une autre source. Vérifiez chaque remplacement et tout fichier inhabituel. La vérification des noms ne remplace pas une analyse antivirus.
+Safety.ReplacementTitle,Vérifier les remplacements de mods
+Safety.RepositoryMessage,"Un dépôt externe contrôle ses téléchargements et ses futures mises à jour. Les mods peuvent contenir des scripts ou du code natif, remplacer des fichiers du jeu ou accéder aux fichiers de votre compte lorsqu’ils sont chargés par le jeu. N’ajoutez que des sources fiables.
+
+Voulez-vous ajouter ce dépôt ?"
+Safety.RepositoryTitle,Ajouter un dépôt externe ?
+Safety.UnexpectedPackage,Fichiers inattendus dans le paquet du mod
+Safety.UnexpectedPreview,Fichiers inattendus dans l’aperçu du mod
+Safety.UnexpectedReason,Ce téléchargement contient du contenu exécutable ou des fichiers d’un format inhabituel. La vérification des noms de fichiers ne remplace pas une analyse antivirus.
+Sort.Author,Auteur
+Sort.Caption.0,A–Z
+Sort.Caption.1,Z–A
+Sort.Caption.2,Récents
+Sort.Caption.3,Anciens
+Sort.GroupingDescription,Choisissez le tri ou le regroupement
+Sort.Priority,Priorité
+Sort.UnknownDateHint, — les dates inconnues sont placées en dernier dans chaque groupe
+Status.DisabledSuffix, (désactivé)
+Status.Installed,Installé
+Status.NotInstalled,Non installé

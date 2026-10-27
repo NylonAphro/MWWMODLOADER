@@ -1,0 +1,174 @@
+﻿Key,Translation
+Action.BTN_CatalogCheckExtenderUpdates,التحقق من التحديثات
+Action.BTN_FrontCheckExtenderUpdates,التحقق من التحديثات
+Action.BTN_FrontCheckLoaderUpdates,التحقق من التحديثات
+Action.BTN_ManageRepositories,إضافة / إزالة
+Action.CreateMod,إنشاء تعديل
+Action.DeleteMod,حذف
+Action.DisableMod,تعطيل
+Action.DownloadMod,تنزيل
+Action.EnableMod,تفعيل
+Action.InfoMod,معلومات
+Action.OpenModFolder,فتح مجلد التعديلات
+Action.Update_ButtonMod,تحديث
+Choice.Author groups,تجميع حسب المؤلف
+Choice.Automatic (system),تلقائي (لغة النظام)
+Choice.A–Z,أ–ي
+Choice.Compact — 2 columns,مضغوط — عمودان
+Choice.Default — 3 columns,افتراضي — 3 أعمدة
+Choice.Deutsch,Deutsch
+Choice.Disabled first,المعطّلة أولًا
+Choice.Enabled first,المفعّلة أولًا
+Choice.English,English
+Choice.Español,Español
+Choice.Français,Français
+Choice.Full screen (maximized),ملء الشاشة (تكبير)
+Choice.Imported CSV,ملف CSV مستورد
+Choice.Installed first,المثبّتة أولًا
+Choice.Name only,الاسم فقط
+Choice.Newest downloads,أحدث التنزيلات
+Choice.Oldest downloads,أقدم التنزيلات
+Choice.Uninstalled first,غير المثبّتة أولًا
+Choice.Z–A,ي–أ
+Choice.Русский,Русский
+Control.BitsquidUnpacker.BTN_OpenPNG,فتح مجلد PNG
+Control.BitsquidUnpacker.BTN_OpenRawFolder,فتح مجلد الملفات الخام
+Control.BitsquidUnpacker.BTN_UnpackFiles,فك حزم العناصر المحددة
+Control.BitsquidUnpacker.LBL_Packs,الحزم
+Control.BitsquidUnpacker.label1,التعديلات المعطّلة
+Control.MainFormManager.BTN_CheckForUpdates,التحقق من التحديثات
+Control.MainFormManager.BTN_Clear,مسح التعديل
+Control.MainFormManager.BTN_ClearLoaderData,مسح بيانات المحمّل
+Control.MainFormManager.BTN_ClearOutput,مسح
+Control.MainFormManager.BTN_CompileMod,ترجمة التعديل برمجيًا
+Control.MainFormManager.BTN_CreateHelpFile,إنشاء ملف مساعدة
+Control.MainFormManager.BTN_DeleteAllMods,حذف جميع التعديلات
+Control.MainFormManager.BTN_DesktopShortcut,اختصار سطح المكتب
+Control.MainFormManager.BTN_DisableAllMods,تعطيل جميع التعديلات
+Control.MainFormManager.BTN_EnableAllMods,تفعيل جميع التعديلات
+Control.MainFormManager.BTN_ExportLanguage,تصدير القالب
+Control.MainFormManager.BTN_ImportLanguage,استيراد CSV
+Control.MainFormManager.BTN_LaunchSpectator,تشغيل بوضع المشاهد
+Control.MainFormManager.BTN_MoveInstall,نقل التثبيت
+Control.MainFormManager.BTN_OpenDiscord,فتح Discord
+Control.MainFormManager.BTN_OpenMyModsFolder,فتح مجلد التعديلات
+Control.MainFormManager.BTN_RefreshModFiles,تحديث المشروع
+Control.MainFormManager.BTN_RepoPackage,قالب مستودع
+Control.MainFormManager.BTN_ResetLanguage,English
+Control.MainFormManager.BTN_RunHash,قيمة التجزئة
+Control.MainFormManager.BTN_RunLanServer,تشغيل خادم LAN
+Control.MainFormManager.BTN_SaveModBuilderFile,حفظ التغييرات
+Control.MainFormManager.BTN_UpdateAllMods,تحديث جميع التعديلات
+Control.MainFormManager.BTN_UpdateBase,تحديث المكونات الأساسية
+Control.MainFormManager.BTN_UpdateMWWSE,تحديث MWWSE
+Control.MainFormManager.CHK_AutoLaunch,تصحيح الأخطاء — تشغيل تلقائي
+Control.MainFormManager.CHK_AutoLaunchOnStart,تشغيل تلقائي
+Control.MainFormManager.CHK_AutoUpdateLoader,تحديث المحمّل تلقائيًا أثناء التنزيل
+Control.MainFormManager.CHK_ClearOnCompile,مسح بعد الترجمة البرمجية
+Control.MainFormManager.CHK_CompileLua,ترجمة برمجية إلى LuaJIT
+Control.MainFormManager.CHK_GenerateDocumentation,إنشاء الوثائق
+Control.MainFormManager.CHK_InstallOnCompile,تثبيت بعد الترجمة البرمجية
+Control.MainFormManager.CHK_Installlocally,استبدال مشغّل Steam
+Control.MainFormManager.CHK_LogWrap,التفاف أسطر السجل
+Control.MainFormManager.CHK_Magicka2,تجريبي — تفعيل تعديلات Magicka 2
+Control.MainFormManager.CHK_OpenFolderOnCompile,فتح المجلد بعد الترجمة البرمجية
+Control.MainFormManager.CHK_ReplaceSteamLauncher,استبدال مشغّل Steam
+Control.MainFormManager.CHK_StartWithSteam,تشغيل عبر Steam
+Control.MainFormManager.CHK_UseFlatModCards,استخدام بطاقات تعديلات مسطّحة
+Control.MainFormManager.CHK_UseFolderPathsAsName,استخدام مسار المجلد
+Control.MainFormManager.LBL_AttachedMods,الملفات المضمّنة
+Control.MainFormManager.LBL_Console,وحدة التحكم
+Control.MainFormManager.LBL_Download,تنزيل التعديلات
+Control.MainFormManager.LBL_LanguagePack,اللغة
+Control.MainFormManager.LBL_LaunchMagicka,تشغيل Magicka
+Control.MainFormManager.LBL_ManageMods,إدارة التعديلات
+Control.MainFormManager.LBL_ModDescription,وصف مختصر
+Control.MainFormManager.LBL_ModName,اسم التعديل
+Control.MainFormManager.LBL_ProjectFolder,مجلد المشروع
+Control.MainFormManager.LBL_Settings,الإعدادات
+Control.MainFormManager.LBL_StartupWindowSize,حجم النافذة عند البدء
+Control.MainFormManager.LBL_Unpack,فك الحزم
+Control.MainFormManager.TAB_Console,وحدة التحكم
+Control.MainFormManager.TAB_DownloadMods,تنزيل التعديلات
+Control.MainFormManager.TAB_ManageMods,إدارة التعديلات
+Control.MainFormManager.TAB_ModBuilder,إنشاء التعديلات
+Control.MainFormManager.TAB_OptionsDir,الخيارات
+Control.MainFormManager.label1,إنشاء التعديلات
+Control.MainFormManager.label10,مجلدات الملفات
+Control.MainFormManager.label11,انقر نقرًا مزدوجًا للفتح
+Control.MainFormManager.label12,الإعدادات
+Control.MainFormManager.label13,المساعدة
+Control.MainFormManager.label14,بيانات التعديلات
+Control.MainFormManager.label15,خيارات التشغيل
+Control.MainFormManager.label16,الإدخال
+Control.MainFormManager.label17,الإخراج
+Control.MainFormManager.label18,ملف سجل Wizard Wars
+Control.MainFormManager.label2,التحديثات
+Control.MainFormManager.label3,التوافق مع موسّع البرامج النصية
+Control.MainFormManager.label4,معاينة الملف
+Control.MainFormManager.label5,مجلد Magicka
+Control.MainFormManager.label6,مجلد محمّل التعديلات
+Control.MainFormManager.label7,مجلد التعديلات
+Control.MainFormManager.label8,ملف إعدادات محمّل التعديلات
+Control.MainFormManager.label9,ملف إعدادات التعديلات
+Control.ProjectManager.BTN_Test,مسح التعديل
+Control.ProjectManager.LBL_DeleteMod,حذف التعديل
+Control.ProjectManager.LBL_Documentation,تحديث الوثائق
+Control.ProjectManager.LBL_EditSelectedMod,تحرير التعديل المحدد
+Control.ProjectManager.LBL_ModName,مجلد المشاريع الرئيسي
+Control.ProjectManager.LBL_NewMod,تعديل جديد
+Control.ProjectManager.LBL_OpenDocumentationFolder,فتح الوثائق
+Control.ProjectManager.LBL_OpenMod,فتح مجلد التعديلات
+Control.ProjectManager.label1,المشاريع
+Control.RepositoryDialog.BTN_AddRepository,إضافة مستودع
+Control.RepositoryDialog.BTN_RemoveRepository,إزالة المحدد
+Control.RepositoryDialog.BTN_SaveRepositories,حفظ وإغلاق
+Control.RepositoryDialog.LBL_NewRepositoryLink,رابط المستودع الجديد
+Control.RepositoryDialog.LBL_RepositoriesTitle,مستودعات التعديلات
+Control.RepositoryDialog.LBL_RepositoryBranch,الفرع
+Editor.SaveChanges,هل تريد حفظ التغييرات في {0}؟
+Editor.UnsavedTitle,تغييرات غير محفوظة في المصدر
+Error.Title,فشلت العملية
+Featured.loader_update_panel.Description,التحقق من وجود إصدار أحدث من محمّل التعديلات.
+Featured.loader_update_panel.Title,"محمّل
+التعديلات"
+Featured.main_script_extender_panel.Description,يتيح للتعديلات توسيع شيفرة Lua في اللعبة واعتراض استدعاءاتها وتعديلها.
+Featured.main_script_extender_panel.Title,"موسّع
+البرامج النصية"
+Featured.repositories_panel.Description,إضافة مصادر قائمة التعديلات أو إزالتها.
+Featured.repositories_panel.Title,"مستودعات
+التعديلات"
+Featured.script_extender_panel.Description,يتيح للتعديلات توسيع شيفرة Lua في اللعبة واعتراض استدعاءاتها وتعديلها.
+Featured.script_extender_panel.Title,"موسّع
+البرامج النصية"
+Language.Active,اللغة: {0}
+Language.CsvFilter,حزمة لغة CSV
+Language.Custom,ملف CSV مخصّص: {0}
+ModInfo.Title,معلومات {0}
+Safety.Cancel,لا، إلغاء
+Safety.Continue,نعم، متابعة
+Safety.ContinueQuestion,هل تريد المتابعة؟
+Safety.ImportMessage,قد تتضمن العناصر المحددة ملفات شخصية غير مرتبطة بالتعديل. تحقّق من المسارات الدقيقة أدناه. إذا كان الاختيار بالخطأ، فاختر حزمة التعديل المحددة أو مجلدها المخصّص. تؤدي المتابعة إلى نسخ العناصر المحددة ومجلداتها الفرعية إلى مساحة العمل المحلية للمحمّل؛ لن تُرفع الملفات إلى الإنترنت. تُراجع تحذيرات المحتوى القابل للتنفيذ بصورة منفصلة قبل التثبيت.
+Safety.ImportTitle,مراجعة العناصر المحددة للاستيراد
+Safety.PackageAction,تؤدي المتابعة إلى حفظ هذه الملفات مع التعديل؛ وقد تستبدل تحديثات ترقيعات اللعبة ملفات اللعبة أيضًا. يمكن أن تعمل البرامج النصية والمكتبات الأصلية عند تحميلها بواسطة اللعبة. لا تُشغّل برامج التثبيت المضمّنة تلقائيًا.
+Safety.PreviewAction,ستُستخدم بيانات المعاينة الوصفية والأيقونة فقط. ستُتجاهل ملفات المعاينة الإضافية ولن تُنفّذ مطلقًا.
+Safety.ReplacementReason,تستبدل هذه الحزمة تعديلات مثبّتة من مصدر آخر. راجع كل استبدال مدرج وأي ملفات غير معتادة. التحقق من أسماء الملفات ليس فحصًا للبرامج الضارة.
+Safety.ReplacementTitle,مراجعة استبدال التعديلات
+Safety.RepositoryMessage,"يتحكّم المستودع الخارجي في تنزيلاته وتحديثاته المستقبلية. قد تحتوي التعديلات على برامج نصية أو شيفرة أصلية، أو تستبدل ملفات اللعبة، أو تصل عند تحميلها بواسطة اللعبة إلى الملفات المتاحة لحسابك. أضف المصادر التي تثق بها فقط.
+
+هل تريد إضافة هذا المستودع؟"
+Safety.RepositoryTitle,هل تريد إضافة مستودع خارجي؟
+Safety.UnexpectedPackage,ملفات غير متوقعة في حزمة التعديل
+Safety.UnexpectedPreview,ملفات غير متوقعة في معاينة التعديل
+Safety.UnexpectedReason,يتضمن هذا التنزيل محتوى قابلًا للتنفيذ أو ملفات خارج تنسيقه المعتاد. التحقق من أسماء الملفات ليس فحصًا للبرامج الضارة.
+Sort.Author,المؤلف
+Sort.Caption.0,أ–ي
+Sort.Caption.1,ي–أ
+Sort.Caption.2,الأحدث
+Sort.Caption.3,الأقدم
+Sort.GroupingDescription,اختيار الفرز أو التجميع
+Sort.Priority,الأولوية
+Sort.UnknownDateHint, — تُدرج التواريخ غير المعروفة في نهاية كل مجموعة
+Status.DisabledSuffix, (معطّل)
+Status.Installed,مثبّت
+Status.NotInstalled,غير مثبّت

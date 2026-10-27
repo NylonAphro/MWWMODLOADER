@@ -1,0 +1,174 @@
+﻿Key,Translation
+Action.BTN_CatalogCheckExtenderUpdates,Tingnan ang mga update
+Action.BTN_FrontCheckExtenderUpdates,Tingnan ang mga update
+Action.BTN_FrontCheckLoaderUpdates,Tingnan ang mga update
+Action.BTN_ManageRepositories,Magdagdag / Mag-alis
+Action.CreateMod,Gumawa ng mod
+Action.DeleteMod,Burahin
+Action.DisableMod,I-off
+Action.DownloadMod,I-download
+Action.EnableMod,I-on
+Action.InfoMod,Impormasyon
+Action.OpenModFolder,Buksan ang folder ng mga mod
+Action.Update_ButtonMod,I-update
+Choice.Author groups,Igrupo ayon sa may-akda
+Choice.Automatic (system),Awtomatiko (system)
+Choice.A–Z,A–Z
+Choice.Compact — 2 columns,Compact — 2 column
+Choice.Default — 3 columns,Default — 3 column
+Choice.Deutsch,Deutsch
+Choice.Disabled first,Unahin ang naka-off
+Choice.Enabled first,Unahin ang naka-on
+Choice.English,English
+Choice.Español,Español
+Choice.Français,Français
+Choice.Full screen (maximized),Buong screen (naka-maximize)
+Choice.Imported CSV,Na-import na CSV
+Choice.Installed first,Unahin ang naka-install
+Choice.Name only,Pangalan lamang
+Choice.Newest downloads,Pinakabagong download
+Choice.Oldest downloads,Pinakalumang download
+Choice.Uninstalled first,Unahin ang hindi naka-install
+Choice.Z–A,Z–A
+Choice.Русский,Русский
+Control.BitsquidUnpacker.BTN_OpenPNG,Buksan ang folder ng PNG
+Control.BitsquidUnpacker.BTN_OpenRawFolder,Buksan ang folder ng raw file
+Control.BitsquidUnpacker.BTN_UnpackFiles,I-unpack ang napili
+Control.BitsquidUnpacker.LBL_Packs,Mga pack
+Control.BitsquidUnpacker.label1,Mga naka-off na mod
+Control.MainFormManager.BTN_CheckForUpdates,Tingnan ang mga update
+Control.MainFormManager.BTN_Clear,Linisin ang mod
+Control.MainFormManager.BTN_ClearLoaderData,Burahin ang data ng loader
+Control.MainFormManager.BTN_ClearOutput,Linisin
+Control.MainFormManager.BTN_CompileMod,I-compile ang mod
+Control.MainFormManager.BTN_CreateHelpFile,Gumawa ng help file
+Control.MainFormManager.BTN_DeleteAllMods,Burahin ang lahat ng mod
+Control.MainFormManager.BTN_DesktopShortcut,Shortcut sa desktop
+Control.MainFormManager.BTN_DisableAllMods,I-off ang lahat ng mod
+Control.MainFormManager.BTN_EnableAllMods,I-on ang lahat ng mod
+Control.MainFormManager.BTN_ExportLanguage,I-export ang template
+Control.MainFormManager.BTN_ImportLanguage,Mag-import ng CSV
+Control.MainFormManager.BTN_LaunchSpectator,Patakbuhin bilang manonood
+Control.MainFormManager.BTN_MoveInstall,Ilipat ang installation
+Control.MainFormManager.BTN_OpenDiscord,Buksan ang Discord
+Control.MainFormManager.BTN_OpenMyModsFolder,Buksan ang folder ng mga mod
+Control.MainFormManager.BTN_RefreshModFiles,I-refresh ang proyekto
+Control.MainFormManager.BTN_RepoPackage,Template ng repository
+Control.MainFormManager.BTN_ResetLanguage,English
+Control.MainFormManager.BTN_RunHash,Hash
+Control.MainFormManager.BTN_RunLanServer,Patakbuhin ang LAN server
+Control.MainFormManager.BTN_SaveModBuilderFile,I-save ang mga pagbabago
+Control.MainFormManager.BTN_UpdateAllMods,I-update ang lahat ng mod
+Control.MainFormManager.BTN_UpdateBase,I-update ang base
+Control.MainFormManager.BTN_UpdateMWWSE,I-update ang MWWSE
+Control.MainFormManager.CHK_AutoLaunch,DEBUG — awtomatikong paglunsad
+Control.MainFormManager.CHK_AutoLaunchOnStart,Awtomatikong paglunsad
+Control.MainFormManager.CHK_AutoUpdateLoader,Awtomatikong i-update ang loader habang nagda-download
+Control.MainFormManager.CHK_ClearOnCompile,Linisin pagkatapos mag-compile
+Control.MainFormManager.CHK_CompileLua,I-compile sa LuaJIT
+Control.MainFormManager.CHK_GenerateDocumentation,Gumawa ng dokumentasyon
+Control.MainFormManager.CHK_InstallOnCompile,I-install pagkatapos mag-compile
+Control.MainFormManager.CHK_Installlocally,Palitan ang launcher ng Steam
+Control.MainFormManager.CHK_LogWrap,I-wrap ang mga linya ng log
+Control.MainFormManager.CHK_Magicka2,BETA — paganahin ang mga mod ng Magicka 2
+Control.MainFormManager.CHK_OpenFolderOnCompile,Buksan ang folder pagkatapos mag-compile
+Control.MainFormManager.CHK_ReplaceSteamLauncher,Palitan ang launcher ng Steam
+Control.MainFormManager.CHK_StartWithSteam,Ilunsad gamit ang Steam
+Control.MainFormManager.CHK_UseFlatModCards,Gumamit ng flat na card ng mod
+Control.MainFormManager.CHK_UseFolderPathsAsName,Gamitin ang path ng folder
+Control.MainFormManager.LBL_AttachedMods,Mga kasamang file
+Control.MainFormManager.LBL_Console,Console
+Control.MainFormManager.LBL_Download,Mag-download ng mga mod
+Control.MainFormManager.LBL_LanguagePack,Wika
+Control.MainFormManager.LBL_LaunchMagicka,Ilunsad ang Magicka
+Control.MainFormManager.LBL_ManageMods,Pamahalaan ang mga mod
+Control.MainFormManager.LBL_ModDescription,Maikling paglalarawan
+Control.MainFormManager.LBL_ModName,Pangalan ng mod
+Control.MainFormManager.LBL_ProjectFolder,Folder ng proyekto
+Control.MainFormManager.LBL_Settings,Mga setting
+Control.MainFormManager.LBL_StartupWindowSize,Laki ng window sa pagsisimula
+Control.MainFormManager.LBL_Unpack,I-unpack
+Control.MainFormManager.TAB_Console,Console
+Control.MainFormManager.TAB_DownloadMods,Mag-download ng mga mod
+Control.MainFormManager.TAB_ManageMods,Pamahalaan ang mga mod
+Control.MainFormManager.TAB_ModBuilder,Tagagawa ng mod
+Control.MainFormManager.TAB_OptionsDir,Mga opsyon
+Control.MainFormManager.label1,Tagagawa ng mod
+Control.MainFormManager.label10,Mga folder
+Control.MainFormManager.label11,i-double-click upang buksan
+Control.MainFormManager.label12,Mga setting
+Control.MainFormManager.label13,Tulong
+Control.MainFormManager.label14,Data ng mod
+Control.MainFormManager.label15,Mga opsyon sa paglunsad
+Control.MainFormManager.label16,Input
+Control.MainFormManager.label17,Output
+Control.MainFormManager.label18,Log file ng Wizard Wars
+Control.MainFormManager.label2,Mga update
+Control.MainFormManager.label3,Compatibility sa Script Extender
+Control.MainFormManager.label4,Preview ng file
+Control.MainFormManager.label5,Folder ng Magicka
+Control.MainFormManager.label6,Folder ng mod loader
+Control.MainFormManager.label7,Folder ng mga mod
+Control.MainFormManager.label8,File ng mga setting ng mod loader
+Control.MainFormManager.label9,File ng mga setting ng mod
+Control.ProjectManager.BTN_Test,Linisin ang mod
+Control.ProjectManager.LBL_DeleteMod,Burahin ang mod
+Control.ProjectManager.LBL_Documentation,I-update ang dokumentasyon
+Control.ProjectManager.LBL_EditSelectedMod,I-edit ang napiling mod
+Control.ProjectManager.LBL_ModName,Pangunahing folder ng mga proyekto
+Control.ProjectManager.LBL_NewMod,Bagong mod
+Control.ProjectManager.LBL_OpenDocumentationFolder,Buksan ang dokumentasyon
+Control.ProjectManager.LBL_OpenMod,Buksan ang folder ng mga mod
+Control.ProjectManager.label1,Mga proyekto
+Control.RepositoryDialog.BTN_AddRepository,Magdagdag ng repository
+Control.RepositoryDialog.BTN_RemoveRepository,Alisin ang napili
+Control.RepositoryDialog.BTN_SaveRepositories,I-save at isara
+Control.RepositoryDialog.LBL_NewRepositoryLink,Link ng bagong repository
+Control.RepositoryDialog.LBL_RepositoriesTitle,Mga repository ng mod
+Control.RepositoryDialog.LBL_RepositoryBranch,Branch
+Editor.SaveChanges,I-save ang mga pagbabago sa {0}?
+Editor.UnsavedTitle,Mga hindi na-save na pagbabago sa source
+Error.Title,Nabigo ang operasyon
+Featured.loader_update_panel.Description,Tingnan kung may mas bagong bersiyon ng mod loader.
+Featured.loader_update_panel.Title,"Loader
+ng mod"
+Featured.main_script_extender_panel.Description,"Hinahayaan ang mga mod na palawakin, baguhin, at mag-hook sa Lua code ng laro."
+Featured.main_script_extender_panel.Title,"Script
+Extender"
+Featured.repositories_panel.Description,Magdagdag o mag-alis ng mga pinagmumulan ng listahan ng mod.
+Featured.repositories_panel.Title,"Mga repository
+ng mod"
+Featured.script_extender_panel.Description,"Hinahayaan ang mga mod na palawakin, baguhin, at mag-hook sa Lua code ng laro."
+Featured.script_extender_panel.Title,"Script
+Extender"
+Language.Active,Wika: {0}
+Language.CsvFilter,CSV na pakete ng wika
+Language.Custom,Custom na CSV: {0}
+ModInfo.Title,Impormasyon tungkol sa {0}
+Safety.Cancel,"Hindi, kanselahin"
+Safety.Continue,"Oo, magpatuloy"
+Safety.ContinueQuestion,Gusto mo bang magpatuloy?
+Safety.ImportMessage,"Maaaring may kasamang mga personal na file na hindi para sa mod ang napili. Suriin ang eksaktong mga path sa ibaba. Kung aksidente ito, piliin ang mismong mod pack o ang sarili nitong folder. Kapag nagpatuloy, kokopyahin ang napili at lahat ng subfolder nito sa lokal na working area ng loader; walang file na ia-upload. Hiwalay na susuriin ang mga babala tungkol sa executable na nilalaman bago mag-install."
+Safety.ImportTitle,Suriin ang mga napili para sa pag-import
+Safety.PackageAction,"Kapag nagpatuloy, itatabi ang mga file na ito kasama ng mod; maaari ring palitan ng mga update sa patch ang mga file ng laro. Maaaring tumakbo ang mga script at native library kapag ni-load ng laro. Hindi awtomatikong pinapatakbo ang mga kasamang installer."
+Safety.PreviewAction,Metadata at icon lamang ng preview ang gagamitin. Babalewalain ang mga dagdag na file sa preview at hindi kailanman patatakbuhin.
+Safety.ReplacementReason,Papalitan ng paketeng ito ang mga naka-install na mod mula sa ibang pinagmulan. Suriin ang bawat nakalistang papalitan at anumang hindi karaniwang file. Ang pagsusuri sa pangalan ng file ay hindi pag-scan para sa malware.
+Safety.ReplacementTitle,Suriin ang mga papalitang mod
+Safety.RepositoryMessage,"Ang panlabas na repository ang kumokontrol sa mga download at susunod nitong update. Maaaring may script o native code ang mga mod, makapatong sa mga file ng laro, o maka-access sa mga file na naaabot ng iyong account kapag ni-load ng laro. Magdagdag lamang ng pinagmumulang pinagkakatiwalaan mo.
+
+Gusto mo bang idagdag ang repository na ito?"
+Safety.RepositoryTitle,Magdagdag ng panlabas na repository?
+Safety.UnexpectedPackage,Mga hindi inaasahang file sa mod pack
+Safety.UnexpectedPreview,Mga hindi inaasahang file sa preview ng mod
+Safety.UnexpectedReason,May executable na nilalaman o mga file na hindi karaniwang kasama sa format ang download na ito. Ang pagsusuri sa pangalan ng file ay hindi pag-scan para sa malware.
+Sort.Author,May-akda
+Sort.Caption.0,A–Z
+Sort.Caption.1,Z–A
+Sort.Caption.2,Pinakabago
+Sort.Caption.3,Pinakaluma
+Sort.GroupingDescription,Piliin ang pagkakasunod o paggrupo
+Sort.Priority,Priyoridad
+Sort.UnknownDateHint, — ang walang petsa ay nasa hulihan ng bawat grupo
+Status.DisabledSuffix, (naka-off)
+Status.Installed,Naka-install
+Status.NotInstalled,Hindi naka-install

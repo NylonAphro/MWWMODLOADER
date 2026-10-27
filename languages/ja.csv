@@ -1,0 +1,174 @@
+﻿Key,Translation
+Action.BTN_CatalogCheckExtenderUpdates,更新を確認
+Action.BTN_FrontCheckExtenderUpdates,更新を確認
+Action.BTN_FrontCheckLoaderUpdates,更新を確認
+Action.BTN_ManageRepositories,追加 / 削除
+Action.CreateMod,MODを作成
+Action.DeleteMod,削除
+Action.DisableMod,無効化
+Action.DownloadMod,ダウンロード
+Action.EnableMod,有効化
+Action.InfoMod,詳細
+Action.OpenModFolder,MODフォルダーを開く
+Action.Update_ButtonMod,更新
+Choice.Author groups,作者別にグループ化
+Choice.Automatic (system),自動（システム言語）
+Choice.A–Z,昇順
+Choice.Compact — 2 columns,コンパクト — 2列
+Choice.Default — 3 columns,既定 — 3列
+Choice.Deutsch,Deutsch
+Choice.Disabled first,無効なMODを先に
+Choice.Enabled first,有効なMODを先に
+Choice.English,English
+Choice.Español,Español
+Choice.Français,Français
+Choice.Full screen (maximized),全画面（最大化）
+Choice.Imported CSV,インポートしたCSV
+Choice.Installed first,インストール済みを先に
+Choice.Name only,名前のみ
+Choice.Newest downloads,新しいダウンロード順
+Choice.Oldest downloads,古いダウンロード順
+Choice.Uninstalled first,未インストールを先に
+Choice.Z–A,降順
+Choice.Русский,Русский
+Control.BitsquidUnpacker.BTN_OpenPNG,PNGフォルダーを開く
+Control.BitsquidUnpacker.BTN_OpenRawFolder,未加工ファイルのフォルダーを開く
+Control.BitsquidUnpacker.BTN_UnpackFiles,選択項目を展開
+Control.BitsquidUnpacker.LBL_Packs,パッケージ
+Control.BitsquidUnpacker.label1,無効なMOD
+Control.MainFormManager.BTN_CheckForUpdates,更新を確認
+Control.MainFormManager.BTN_Clear,MODをクリア
+Control.MainFormManager.BTN_ClearLoaderData,ローダーのデータを消去
+Control.MainFormManager.BTN_ClearOutput,クリア
+Control.MainFormManager.BTN_CompileMod,MODをコンパイル
+Control.MainFormManager.BTN_CreateHelpFile,診断ファイルを作成
+Control.MainFormManager.BTN_DeleteAllMods,すべてのMODを削除
+Control.MainFormManager.BTN_DesktopShortcut,デスクトップのショートカット
+Control.MainFormManager.BTN_DisableAllMods,すべてのMODを無効化
+Control.MainFormManager.BTN_EnableAllMods,すべてのMODを有効化
+Control.MainFormManager.BTN_ExportLanguage,テンプレートをエクスポート
+Control.MainFormManager.BTN_ImportLanguage,CSVをインポート
+Control.MainFormManager.BTN_LaunchSpectator,観戦モードで起動
+Control.MainFormManager.BTN_MoveInstall,インストール先を移動
+Control.MainFormManager.BTN_OpenDiscord,Discordを開く
+Control.MainFormManager.BTN_OpenMyModsFolder,MODフォルダーを開く
+Control.MainFormManager.BTN_RefreshModFiles,プロジェクトを再読み込み
+Control.MainFormManager.BTN_RepoPackage,リポジトリのひな型
+Control.MainFormManager.BTN_ResetLanguage,English
+Control.MainFormManager.BTN_RunHash,ハッシュ
+Control.MainFormManager.BTN_RunLanServer,LANサーバーを起動
+Control.MainFormManager.BTN_SaveModBuilderFile,変更を保存
+Control.MainFormManager.BTN_UpdateAllMods,すべてのMODを更新
+Control.MainFormManager.BTN_UpdateBase,基本コンポーネントを更新
+Control.MainFormManager.BTN_UpdateMWWSE,MWWSEを更新
+Control.MainFormManager.CHK_AutoLaunch,デバッグ — 自動起動
+Control.MainFormManager.CHK_AutoLaunchOnStart,自動起動
+Control.MainFormManager.CHK_AutoUpdateLoader,ダウンロード時にローダーを自動更新
+Control.MainFormManager.CHK_ClearOnCompile,コンパイル後にクリア
+Control.MainFormManager.CHK_CompileLua,LuaJIT用にコンパイル
+Control.MainFormManager.CHK_GenerateDocumentation,ドキュメントを生成
+Control.MainFormManager.CHK_InstallOnCompile,コンパイル後にインストール
+Control.MainFormManager.CHK_Installlocally,Steamランチャーを置き換え
+Control.MainFormManager.CHK_LogWrap,ログを折り返す
+Control.MainFormManager.CHK_Magicka2,ベータ — Magicka 2のMODを有効化
+Control.MainFormManager.CHK_OpenFolderOnCompile,コンパイル後にフォルダーを開く
+Control.MainFormManager.CHK_ReplaceSteamLauncher,Steamランチャーを置き換え
+Control.MainFormManager.CHK_StartWithSteam,Steam経由で起動
+Control.MainFormManager.CHK_UseFlatModCards,フラットなMODカードを使用
+Control.MainFormManager.CHK_UseFolderPathsAsName,フォルダーのパスを使用
+Control.MainFormManager.LBL_AttachedMods,含まれるファイル
+Control.MainFormManager.LBL_Console,コンソール
+Control.MainFormManager.LBL_Download,MODをダウンロード
+Control.MainFormManager.LBL_LanguagePack,言語
+Control.MainFormManager.LBL_LaunchMagicka,Magickaを起動
+Control.MainFormManager.LBL_ManageMods,MOD管理
+Control.MainFormManager.LBL_ModDescription,簡単な説明
+Control.MainFormManager.LBL_ModName,MOD名
+Control.MainFormManager.LBL_ProjectFolder,プロジェクトのフォルダー
+Control.MainFormManager.LBL_Settings,設定
+Control.MainFormManager.LBL_StartupWindowSize,起動時のウィンドウサイズ
+Control.MainFormManager.LBL_Unpack,展開
+Control.MainFormManager.TAB_Console,コンソール
+Control.MainFormManager.TAB_DownloadMods,MODをダウンロード
+Control.MainFormManager.TAB_ManageMods,MOD管理
+Control.MainFormManager.TAB_ModBuilder,MOD作成
+Control.MainFormManager.TAB_OptionsDir,オプション
+Control.MainFormManager.label1,MOD作成
+Control.MainFormManager.label10,フォルダーの場所
+Control.MainFormManager.label11,ダブルクリックで開く
+Control.MainFormManager.label12,設定
+Control.MainFormManager.label13,ヘルプ
+Control.MainFormManager.label14,MODデータ
+Control.MainFormManager.label15,起動オプション
+Control.MainFormManager.label16,入力
+Control.MainFormManager.label17,出力
+Control.MainFormManager.label18,Wizard Warsのログファイル
+Control.MainFormManager.label2,更新
+Control.MainFormManager.label3,Script Extenderとの互換性
+Control.MainFormManager.label4,ファイルのプレビュー
+Control.MainFormManager.label5,Magickaのフォルダー
+Control.MainFormManager.label6,MODローダーのフォルダー
+Control.MainFormManager.label7,MODフォルダー
+Control.MainFormManager.label8,MODローダーの設定ファイル
+Control.MainFormManager.label9,MODの設定ファイル
+Control.ProjectManager.BTN_Test,MODをクリア
+Control.ProjectManager.LBL_DeleteMod,MODを削除
+Control.ProjectManager.LBL_Documentation,ドキュメントを更新
+Control.ProjectManager.LBL_EditSelectedMod,選択したMODを編集
+Control.ProjectManager.LBL_ModName,メインのプロジェクトフォルダー
+Control.ProjectManager.LBL_NewMod,新しいMOD
+Control.ProjectManager.LBL_OpenDocumentationFolder,ドキュメントを開く
+Control.ProjectManager.LBL_OpenMod,MODフォルダーを開く
+Control.ProjectManager.label1,プロジェクト
+Control.RepositoryDialog.BTN_AddRepository,リポジトリを追加
+Control.RepositoryDialog.BTN_RemoveRepository,選択項目を削除
+Control.RepositoryDialog.BTN_SaveRepositories,保存して閉じる
+Control.RepositoryDialog.LBL_NewRepositoryLink,新しいリポジトリのリンク
+Control.RepositoryDialog.LBL_RepositoriesTitle,MODリポジトリ
+Control.RepositoryDialog.LBL_RepositoryBranch,ブランチ
+Editor.SaveChanges,{0}への変更を保存しますか？
+Editor.UnsavedTitle,未保存のソース変更
+Error.Title,操作に失敗しました
+Featured.loader_update_panel.Description,MODローダーの新しいバージョンを確認します。
+Featured.loader_update_panel.Title,"MOD
+ローダー"
+Featured.main_script_extender_panel.Description,MODがゲームのLuaコードを拡張、フック、変更できるようにします。
+Featured.main_script_extender_panel.Title,"スクリプト
+拡張機能"
+Featured.repositories_panel.Description,MOD一覧の配信元を追加または削除します。
+Featured.repositories_panel.Title,"MOD
+リポジトリ"
+Featured.script_extender_panel.Description,MODがゲームのLuaコードを拡張、フック、変更できるようにします。
+Featured.script_extender_panel.Title,"スクリプト
+拡張機能"
+Language.Active,言語：{0}
+Language.CsvFilter,CSV言語パック
+Language.Custom,カスタムCSV：{0}
+ModInfo.Title,{0}の詳細
+Safety.Cancel,いいえ、キャンセル
+Safety.Continue,はい、続行
+Safety.ContinueQuestion,続行しますか？
+Safety.ImportMessage,選択項目には、MODと無関係な個人ファイルが含まれている可能性があります。以下の正確なパスを確認してください。誤って選択した場合は、対象のMODパッケージまたは専用フォルダーを選んでください。続行すると、選択項目とすべてのサブフォルダーがローダーのローカル作業領域にコピーされます。ファイルはアップロードされません。実行可能な内容に関する警告は、インストール前に別途確認します。
+Safety.ImportTitle,インポートする項目を確認
+Safety.PackageAction,続行すると、これらのファイルがMODと一緒に保存されます。ゲームのパッチ更新によってゲームファイルが置き換わる場合もあります。スクリプトやネイティブライブラリは、ゲームが読み込む際に実行される可能性があります。同梱のインストーラーが自動起動することはありません。
+Safety.PreviewAction,プレビューのメタデータとアイコンのみ使用します。追加のプレビューファイルは無視され、実行されることはありません。
+Safety.ReplacementReason,このパッケージは、別の配信元からインストールしたMODを置き換えます。表示されているすべての置き換えと不審なファイルを確認してください。ファイル名の確認はマルウェアスキャンではありません。
+Safety.ReplacementTitle,MODの置き換えを確認
+Safety.RepositoryMessage,"外部リポジトリは、配信するファイルや今後の更新を管理します。MODにはスクリプトやネイティブコードが含まれる場合があり、ゲームファイルを上書きしたり、ゲームに読み込まれた際にユーザーアカウントでアクセス可能なファイルへアクセスしたりする可能性があります。信頼できる配信元だけを追加してください。
+
+このリポジトリを追加しますか？"
+Safety.RepositoryTitle,外部リポジトリを追加しますか？
+Safety.UnexpectedPackage,MODパッケージ内の予期しないファイル
+Safety.UnexpectedPreview,MODプレビュー内の予期しないファイル
+Safety.UnexpectedReason,このダウンロードには、実行可能な内容や通常の形式に含まれないファイルが含まれています。ファイル名の確認はマルウェアスキャンではありません。
+Sort.Author,作者
+Sort.Caption.0,昇順
+Sort.Caption.1,降順
+Sort.Caption.2,新しい順
+Sort.Caption.3,古い順
+Sort.GroupingDescription,並べ替えやグループ化を選択
+Sort.Priority,優先順
+Sort.UnknownDateHint, — 日付不明の項目は各グループの末尾に表示されます
+Status.DisabledSuffix,（無効）
+Status.Installed,インストール済み
+Status.NotInstalled,未インストール

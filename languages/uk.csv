@@ -1,0 +1,174 @@
+﻿Key,Translation
+Action.BTN_CatalogCheckExtenderUpdates,Перевірити оновлення
+Action.BTN_FrontCheckExtenderUpdates,Перевірити оновлення
+Action.BTN_FrontCheckLoaderUpdates,Перевірити оновлення
+Action.BTN_ManageRepositories,Додати / Видалити
+Action.CreateMod,Створити мод
+Action.DeleteMod,Видалити
+Action.DisableMod,Вимк.
+Action.DownloadMod,Завантажити
+Action.EnableMod,Увімк.
+Action.InfoMod,Про мод
+Action.OpenModFolder,Відкрити теку модів
+Action.Update_ButtonMod,Оновити
+Choice.Author groups,Групувати за авторами
+Choice.Automatic (system),Авто (мова системи)
+Choice.A–Z,А–Я
+Choice.Compact — 2 columns,Компактно — 2 стовпці
+Choice.Default — 3 columns,Типово — 3 стовпці
+Choice.Deutsch,Deutsch
+Choice.Disabled first,Спочатку вимкнені
+Choice.Enabled first,Спочатку ввімкнені
+Choice.English,English
+Choice.Español,Español
+Choice.Français,Français
+Choice.Full screen (maximized),На весь екран
+Choice.Imported CSV,Імпортований CSV
+Choice.Installed first,Спочатку встановлені
+Choice.Name only,Лише назва
+Choice.Newest downloads,Найновіші завантаження
+Choice.Oldest downloads,Найдавніші завантаження
+Choice.Uninstalled first,Спочатку невстановлені
+Choice.Z–A,Я–А
+Choice.Русский,Русский
+Control.BitsquidUnpacker.BTN_OpenPNG,Відкрити теку PNG
+Control.BitsquidUnpacker.BTN_OpenRawFolder,Відкрити теку вихідних файлів
+Control.BitsquidUnpacker.BTN_UnpackFiles,Розпакувати вибране
+Control.BitsquidUnpacker.LBL_Packs,Пакети
+Control.BitsquidUnpacker.label1,Вимкнені моди
+Control.MainFormManager.BTN_CheckForUpdates,Перевірити оновлення
+Control.MainFormManager.BTN_Clear,Очистити мод
+Control.MainFormManager.BTN_ClearLoaderData,Очистити дані завантажувача
+Control.MainFormManager.BTN_ClearOutput,Очистити
+Control.MainFormManager.BTN_CompileMod,Скомпілювати мод
+Control.MainFormManager.BTN_CreateHelpFile,Створити файл звіту
+Control.MainFormManager.BTN_DeleteAllMods,Видалити всі моди
+Control.MainFormManager.BTN_DesktopShortcut,Ярлик на стільниці
+Control.MainFormManager.BTN_DisableAllMods,Вимкнути всі моди
+Control.MainFormManager.BTN_EnableAllMods,Увімкнути всі моди
+Control.MainFormManager.BTN_ExportLanguage,Експортувати шаблон
+Control.MainFormManager.BTN_ImportLanguage,Імпортувати CSV
+Control.MainFormManager.BTN_LaunchSpectator,Запустити спостерігачем
+Control.MainFormManager.BTN_MoveInstall,Перенести встановлення
+Control.MainFormManager.BTN_OpenDiscord,Відкрити Discord
+Control.MainFormManager.BTN_OpenMyModsFolder,Відкрити теку модів
+Control.MainFormManager.BTN_RefreshModFiles,Оновити проєкт
+Control.MainFormManager.BTN_RepoPackage,Шаблон репозиторію
+Control.MainFormManager.BTN_ResetLanguage,English
+Control.MainFormManager.BTN_RunHash,Хеш
+Control.MainFormManager.BTN_RunLanServer,Запустити сервер LAN
+Control.MainFormManager.BTN_SaveModBuilderFile,Зберегти зміни
+Control.MainFormManager.BTN_UpdateAllMods,Оновити всі моди
+Control.MainFormManager.BTN_UpdateBase,Оновити основу
+Control.MainFormManager.BTN_UpdateMWWSE,Оновити MWWSE
+Control.MainFormManager.CHK_AutoLaunch,НАЛАГОДЖЕННЯ — автозапуск
+Control.MainFormManager.CHK_AutoLaunchOnStart,Автозапуск
+Control.MainFormManager.CHK_AutoUpdateLoader,Автооновлення завантажувача під час завантажень
+Control.MainFormManager.CHK_ClearOnCompile,Очищати після компіляції
+Control.MainFormManager.CHK_CompileLua,Компілювати в LuaJIT
+Control.MainFormManager.CHK_GenerateDocumentation,Створювати документацію
+Control.MainFormManager.CHK_InstallOnCompile,Встановлювати після компіляції
+Control.MainFormManager.CHK_Installlocally,Замінити запуск через Steam
+Control.MainFormManager.CHK_LogWrap,Переносити рядки журналу
+Control.MainFormManager.CHK_Magicka2,БЕТА — увімкнути моди для Magicka 2
+Control.MainFormManager.CHK_OpenFolderOnCompile,Відкривати теку після компіляції
+Control.MainFormManager.CHK_ReplaceSteamLauncher,Замінити запуск через Steam
+Control.MainFormManager.CHK_StartWithSteam,Запускати через Steam
+Control.MainFormManager.CHK_UseFlatModCards,Пласкі картки модів
+Control.MainFormManager.CHK_UseFolderPathsAsName,Використовувати шлях теки
+Control.MainFormManager.LBL_AttachedMods,Додані файли
+Control.MainFormManager.LBL_Console,Консоль
+Control.MainFormManager.LBL_Download,Завантажити моди
+Control.MainFormManager.LBL_LanguagePack,Мова
+Control.MainFormManager.LBL_LaunchMagicka,Запустити Magicka
+Control.MainFormManager.LBL_ManageMods,Керування модами
+Control.MainFormManager.LBL_ModDescription,Короткий опис
+Control.MainFormManager.LBL_ModName,Назва мода
+Control.MainFormManager.LBL_ProjectFolder,Тека проєкту
+Control.MainFormManager.LBL_Settings,Налаштування
+Control.MainFormManager.LBL_StartupWindowSize,Розмір вікна під час запуску
+Control.MainFormManager.LBL_Unpack,Розпакування
+Control.MainFormManager.TAB_Console,Консоль
+Control.MainFormManager.TAB_DownloadMods,Завантажити моди
+Control.MainFormManager.TAB_ManageMods,Керування модами
+Control.MainFormManager.TAB_ModBuilder,Створення модів
+Control.MainFormManager.TAB_OptionsDir,Параметри
+Control.MainFormManager.label1,Створення модів
+Control.MainFormManager.label10,Теки
+Control.MainFormManager.label11,"двічі клацніть, щоб відкрити"
+Control.MainFormManager.label12,Налаштування
+Control.MainFormManager.label13,Довідка
+Control.MainFormManager.label14,Дані модів
+Control.MainFormManager.label15,Параметри запуску
+Control.MainFormManager.label16,Вхід
+Control.MainFormManager.label17,Вихід
+Control.MainFormManager.label18,Файл журналу Wizard Wars
+Control.MainFormManager.label2,Оновлення
+Control.MainFormManager.label3,Сумісність із розширювачем скриптів
+Control.MainFormManager.label4,Перегляд файлу
+Control.MainFormManager.label5,Тека Magicka
+Control.MainFormManager.label6,Тека завантажувача модів
+Control.MainFormManager.label7,Тека модів
+Control.MainFormManager.label8,Файл налаштувань завантажувача модів
+Control.MainFormManager.label9,Файл налаштувань модів
+Control.ProjectManager.BTN_Test,Очистити мод
+Control.ProjectManager.LBL_DeleteMod,Видалити мод
+Control.ProjectManager.LBL_Documentation,Оновити документацію
+Control.ProjectManager.LBL_EditSelectedMod,Редагувати вибраний мод
+Control.ProjectManager.LBL_ModName,Основна тека проєктів
+Control.ProjectManager.LBL_NewMod,Новий мод
+Control.ProjectManager.LBL_OpenDocumentationFolder,Відкрити документацію
+Control.ProjectManager.LBL_OpenMod,Відкрити теку модів
+Control.ProjectManager.label1,Проєкти
+Control.RepositoryDialog.BTN_AddRepository,Додати репозиторій
+Control.RepositoryDialog.BTN_RemoveRepository,Видалити вибране
+Control.RepositoryDialog.BTN_SaveRepositories,Зберегти й закрити
+Control.RepositoryDialog.LBL_NewRepositoryLink,Посилання на новий репозиторій
+Control.RepositoryDialog.LBL_RepositoriesTitle,Репозиторії модів
+Control.RepositoryDialog.LBL_RepositoryBranch,Гілка
+Editor.SaveChanges,Зберегти зміни у {0}?
+Editor.UnsavedTitle,Незбережені зміни вихідного коду
+Error.Title,Помилка операції
+Featured.loader_update_panel.Description,Перевірити наявність нової версії завантажувача модів.
+Featured.loader_update_panel.Title,"Завантажувач
+модів"
+Featured.main_script_extender_panel.Description,Дозволяє модам розширювати й змінювати Lua-код гри та перехоплювати його виклики.
+Featured.main_script_extender_panel.Title,"Розширювач
+скриптів"
+Featured.repositories_panel.Description,Додавайте або видаляйте джерела списку модів.
+Featured.repositories_panel.Title,"Репозиторії
+модів"
+Featured.script_extender_panel.Description,Дозволяє модам розширювати й змінювати Lua-код гри та перехоплювати його виклики.
+Featured.script_extender_panel.Title,"Розширювач
+скриптів"
+Language.Active,Мова: {0}
+Language.CsvFilter,Мовний пакет CSV
+Language.Custom,Власний CSV: {0}
+ModInfo.Title,Про мод {0}
+Safety.Cancel,"Ні, скасувати"
+Safety.Continue,"Так, продовжити"
+Safety.ContinueQuestion,Бажаєте продовжити?
+Safety.ImportMessage,"Вибір може містити сторонні особисті файли. Перевірте точні шляхи нижче. Якщо це сталося випадково, виберіть конкретний пакет мода або його окрему теку. Якщо продовжити, вибрані файли й вкладені теки буде скопійовано до локальної робочої області завантажувача; файли нікуди не надсилаються. Попередження про виконувані файли розглядаються окремо перед встановленням."
+Safety.ImportTitle,Перевірка вибраного для імпорту
+Safety.PackageAction,"Якщо продовжити, ці файли буде збережено разом із модом; оновлення патчів також можуть замінювати файли гри. Скрипти й нативні бібліотеки можуть виконуватися під час завантаження грою. Вбудовані інсталятори не запускаються автоматично."
+Safety.PreviewAction,"Використовуватимуться лише метадані попереднього перегляду та піктограма. Зайві файли перегляду буде проігноровано, вони ніколи не виконуватимуться."
+Safety.ReplacementReason,Цей пакет замінює встановлені моди з іншого джерела. Перевірте кожну вказану заміну та всі незвичні файли. Перевірка імені файлу не є перевіркою на шкідливе програмне забезпечення.
+Safety.ReplacementTitle,Перевірка заміни модів
+Safety.RepositoryMessage,"Зовнішній репозиторій керує своїми завантаженнями й майбутніми оновленнями. Моди можуть містити скрипти або машинний код, перезаписувати файли гри чи отримувати доступ до файлів вашого облікового запису під час завантаження грою. Додавайте лише довірені джерела.
+
+Додати цей репозиторій?"
+Safety.RepositoryTitle,Додати зовнішній репозиторій?
+Safety.UnexpectedPackage,Неочікувані файли в пакеті мода
+Safety.UnexpectedPreview,Неочікувані файли в перегляді мода
+Safety.UnexpectedReason,Це завантаження містить виконуваний вміст або файли нетипових форматів. Перевірка імені файлу не є перевіркою на шкідливе програмне забезпечення.
+Sort.Author,Автор
+Sort.Caption.0,А–Я
+Sort.Caption.1,Я–А
+Sort.Caption.2,Найновіші
+Sort.Caption.3,Найдавніші
+Sort.GroupingDescription,Виберіть сортування чи групування
+Sort.Priority,Пріоритет
+Sort.UnknownDateHint, — записи без дати стоять останніми в кожній групі
+Status.DisabledSuffix, (вимкнено)
+Status.Installed,Встановлено
+Status.NotInstalled,Не встановлено

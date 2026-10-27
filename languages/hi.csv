@@ -1,0 +1,174 @@
+﻿Key,Translation
+Action.BTN_CatalogCheckExtenderUpdates,अपडेट जाँचें
+Action.BTN_FrontCheckExtenderUpdates,अपडेट जाँचें
+Action.BTN_FrontCheckLoaderUpdates,अपडेट जाँचें
+Action.BTN_ManageRepositories,जोड़ें / हटाएँ
+Action.CreateMod,मॉड बनाएँ
+Action.DeleteMod,मिटाएँ
+Action.DisableMod,बंद करें
+Action.DownloadMod,डाउनलोड करें
+Action.EnableMod,चालू करें
+Action.InfoMod,जानकारी
+Action.OpenModFolder,मॉड फ़ोल्डर खोलें
+Action.Update_ButtonMod,अपडेट करें
+Choice.Author groups,लेखक के अनुसार समूह
+Choice.Automatic (system),स्वचालित (सिस्टम)
+Choice.A–Z,बढ़ता क्रम
+Choice.Compact — 2 columns,छोटा — 2 कॉलम
+Choice.Default — 3 columns,डिफ़ॉल्ट — 3 कॉलम
+Choice.Deutsch,Deutsch
+Choice.Disabled first,बंद मॉड पहले
+Choice.Enabled first,चालू मॉड पहले
+Choice.English,English
+Choice.Español,Español
+Choice.Français,Français
+Choice.Full screen (maximized),पूरी स्क्रीन (अधिकतम)
+Choice.Imported CSV,इम्पोर्ट की गई CSV
+Choice.Installed first,इंस्टॉल किए गए पहले
+Choice.Name only,केवल नाम
+Choice.Newest downloads,सबसे नए डाउनलोड
+Choice.Oldest downloads,सबसे पुराने डाउनलोड
+Choice.Uninstalled first,इंस्टॉल न किए गए पहले
+Choice.Z–A,घटता क्रम
+Choice.Русский,Русский
+Control.BitsquidUnpacker.BTN_OpenPNG,PNG फ़ोल्डर खोलें
+Control.BitsquidUnpacker.BTN_OpenRawFolder,मूल फ़ाइलों का फ़ोल्डर खोलें
+Control.BitsquidUnpacker.BTN_UnpackFiles,चुने हुए अनपैक करें
+Control.BitsquidUnpacker.LBL_Packs,पैक
+Control.BitsquidUnpacker.label1,बंद मॉड
+Control.MainFormManager.BTN_CheckForUpdates,अपडेट जाँचें
+Control.MainFormManager.BTN_Clear,मॉड साफ़ करें
+Control.MainFormManager.BTN_ClearLoaderData,लोडर का डेटा साफ़ करें
+Control.MainFormManager.BTN_ClearOutput,साफ़ करें
+Control.MainFormManager.BTN_CompileMod,मॉड कम्पाइल करें
+Control.MainFormManager.BTN_CreateHelpFile,सहायता फ़ाइल बनाएँ
+Control.MainFormManager.BTN_DeleteAllMods,सभी मॉड मिटाएँ
+Control.MainFormManager.BTN_DesktopShortcut,डेस्कटॉप शॉर्टकट
+Control.MainFormManager.BTN_DisableAllMods,सभी मॉड बंद करें
+Control.MainFormManager.BTN_EnableAllMods,सभी मॉड चालू करें
+Control.MainFormManager.BTN_ExportLanguage,टेम्पलेट एक्सपोर्ट करें
+Control.MainFormManager.BTN_ImportLanguage,CSV इम्पोर्ट करें
+Control.MainFormManager.BTN_LaunchSpectator,दर्शक के रूप में चलाएँ
+Control.MainFormManager.BTN_MoveInstall,इंस्टॉलेशन स्थान बदलें
+Control.MainFormManager.BTN_OpenDiscord,Discord खोलें
+Control.MainFormManager.BTN_OpenMyModsFolder,मॉड फ़ोल्डर खोलें
+Control.MainFormManager.BTN_RefreshModFiles,प्रोजेक्ट रिफ़्रेश करें
+Control.MainFormManager.BTN_RepoPackage,रिपॉज़िटरी टेम्पलेट
+Control.MainFormManager.BTN_ResetLanguage,English
+Control.MainFormManager.BTN_RunHash,हैश
+Control.MainFormManager.BTN_RunLanServer,LAN सर्वर चलाएँ
+Control.MainFormManager.BTN_SaveModBuilderFile,बदलाव सहेजें
+Control.MainFormManager.BTN_UpdateAllMods,सभी मॉड अपडेट करें
+Control.MainFormManager.BTN_UpdateBase,आधार अपडेट करें
+Control.MainFormManager.BTN_UpdateMWWSE,MWWSE अपडेट करें
+Control.MainFormManager.CHK_AutoLaunch,डीबग — स्वचालित लॉन्च
+Control.MainFormManager.CHK_AutoLaunchOnStart,स्वचालित लॉन्च
+Control.MainFormManager.CHK_AutoUpdateLoader,डाउनलोड के दौरान लोडर अपने आप अपडेट करें
+Control.MainFormManager.CHK_ClearOnCompile,कम्पाइल के बाद साफ़ करें
+Control.MainFormManager.CHK_CompileLua,LuaJIT में कम्पाइल करें
+Control.MainFormManager.CHK_GenerateDocumentation,दस्तावेज़ बनाएँ
+Control.MainFormManager.CHK_InstallOnCompile,कम्पाइल के बाद इंस्टॉल करें
+Control.MainFormManager.CHK_Installlocally,Steam लॉन्चर बदलें
+Control.MainFormManager.CHK_LogWrap,लॉग की पंक्तियाँ लपेटें
+Control.MainFormManager.CHK_Magicka2,बीटा — Magicka 2 मॉड चालू करें
+Control.MainFormManager.CHK_OpenFolderOnCompile,कम्पाइल के बाद फ़ोल्डर खोलें
+Control.MainFormManager.CHK_ReplaceSteamLauncher,Steam लॉन्चर बदलें
+Control.MainFormManager.CHK_StartWithSteam,Steam से लॉन्च करें
+Control.MainFormManager.CHK_UseFlatModCards,सरल मॉड कार्ड इस्तेमाल करें
+Control.MainFormManager.CHK_UseFolderPathsAsName,फ़ोल्डर का पथ इस्तेमाल करें
+Control.MainFormManager.LBL_AttachedMods,शामिल फ़ाइलें
+Control.MainFormManager.LBL_Console,कंसोल
+Control.MainFormManager.LBL_Download,मॉड डाउनलोड करें
+Control.MainFormManager.LBL_LanguagePack,भाषा
+Control.MainFormManager.LBL_LaunchMagicka,Magicka लॉन्च करें
+Control.MainFormManager.LBL_ManageMods,मॉड प्रबंधित करें
+Control.MainFormManager.LBL_ModDescription,संक्षिप्त विवरण
+Control.MainFormManager.LBL_ModName,मॉड का नाम
+Control.MainFormManager.LBL_ProjectFolder,प्रोजेक्ट फ़ोल्डर
+Control.MainFormManager.LBL_Settings,सेटिंग
+Control.MainFormManager.LBL_StartupWindowSize,शुरुआती विंडो का आकार
+Control.MainFormManager.LBL_Unpack,अनपैक करें
+Control.MainFormManager.TAB_Console,कंसोल
+Control.MainFormManager.TAB_DownloadMods,मॉड डाउनलोड करें
+Control.MainFormManager.TAB_ManageMods,मॉड प्रबंधित करें
+Control.MainFormManager.TAB_ModBuilder,मॉड बिल्डर
+Control.MainFormManager.TAB_OptionsDir,विकल्प
+Control.MainFormManager.label1,मॉड बिल्डर
+Control.MainFormManager.label10,फ़ाइल फ़ोल्डर
+Control.MainFormManager.label11,खोलने के लिए डबल-क्लिक करें
+Control.MainFormManager.label12,सेटिंग
+Control.MainFormManager.label13,सहायता
+Control.MainFormManager.label14,मॉड डेटा
+Control.MainFormManager.label15,लॉन्च विकल्प
+Control.MainFormManager.label16,इनपुट
+Control.MainFormManager.label17,आउटपुट
+Control.MainFormManager.label18,Wizard Wars लॉग फ़ाइल
+Control.MainFormManager.label2,अपडेट
+Control.MainFormManager.label3,स्क्रिप्ट एक्सटेंडर की संगतता
+Control.MainFormManager.label4,फ़ाइल पूर्वावलोकन
+Control.MainFormManager.label5,Magicka फ़ोल्डर
+Control.MainFormManager.label6,मॉड लोडर फ़ोल्डर
+Control.MainFormManager.label7,मॉड फ़ोल्डर
+Control.MainFormManager.label8,मॉड लोडर की सेटिंग फ़ाइल
+Control.MainFormManager.label9,मॉड की सेटिंग फ़ाइल
+Control.ProjectManager.BTN_Test,मॉड साफ़ करें
+Control.ProjectManager.LBL_DeleteMod,मॉड मिटाएँ
+Control.ProjectManager.LBL_Documentation,दस्तावेज़ अपडेट करें
+Control.ProjectManager.LBL_EditSelectedMod,चुने हुए मॉड में बदलाव करें
+Control.ProjectManager.LBL_ModName,मुख्य प्रोजेक्ट फ़ोल्डर
+Control.ProjectManager.LBL_NewMod,नया मॉड
+Control.ProjectManager.LBL_OpenDocumentationFolder,दस्तावेज़ खोलें
+Control.ProjectManager.LBL_OpenMod,मॉड फ़ोल्डर खोलें
+Control.ProjectManager.label1,प्रोजेक्ट
+Control.RepositoryDialog.BTN_AddRepository,रिपॉज़िटरी जोड़ें
+Control.RepositoryDialog.BTN_RemoveRepository,चुने हुए हटाएँ
+Control.RepositoryDialog.BTN_SaveRepositories,सहेजें और बंद करें
+Control.RepositoryDialog.LBL_NewRepositoryLink,नई रिपॉज़िटरी का लिंक
+Control.RepositoryDialog.LBL_RepositoriesTitle,मॉड रिपॉज़िटरी
+Control.RepositoryDialog.LBL_RepositoryBranch,ब्रांच
+Editor.SaveChanges,क्या {0} में बदलाव सहेजें?
+Editor.UnsavedTitle,सोर्स में न सहेजे गए बदलाव
+Error.Title,कार्रवाई विफल रही
+Featured.loader_update_panel.Description,मॉड लोडर का नया संस्करण देखें।
+Featured.loader_update_panel.Title,"मॉड
+लोडर"
+Featured.main_script_extender_panel.Description,"मॉड को गेम का Lua कोड विस्तृत करने, हुक करने और बदलने देता है।"
+Featured.main_script_extender_panel.Title,"स्क्रिप्ट
+एक्सटेंडर"
+Featured.repositories_panel.Description,मॉड सूची के स्रोत जोड़ें या हटाएँ।
+Featured.repositories_panel.Title,"मॉड
+रिपॉज़िटरी"
+Featured.script_extender_panel.Description,"मॉड को गेम का Lua कोड विस्तृत करने, हुक करने और बदलने देता है।"
+Featured.script_extender_panel.Title,"स्क्रिप्ट
+एक्सटेंडर"
+Language.Active,भाषा: {0}
+Language.CsvFilter,CSV भाषा पैक
+Language.Custom,कस्टम CSV: {0}
+ModInfo.Title,{0} की जानकारी
+Safety.Cancel,"नहीं, रद्द करें"
+Safety.Continue,"हाँ, जारी रखें"
+Safety.ContinueQuestion,क्या आप जारी रखना चाहते हैं?
+Safety.ImportMessage,"चुनी गई चीज़ों में मॉड से असंबंधित निजी फ़ाइलें हो सकती हैं। नीचे दिए गए सही पथ जाँचें। यदि यह गलती से हुआ है, तो केवल मॉड पैक या उसके अलग फ़ोल्डर को चुनें। जारी रखने पर चुनी गई चीज़ें और उनके सभी सबफ़ोल्डर लोडर के स्थानीय कार्यक्षेत्र में कॉपी होंगे; कोई फ़ाइल अपलोड नहीं होगी। चल सकने वाली सामग्री की चेतावनियों की इंस्टॉल करने से पहले अलग से समीक्षा होगी।"
+Safety.ImportTitle,इम्पोर्ट के लिए चुनी गई चीज़ों की समीक्षा
+Safety.PackageAction,जारी रखने पर ये फ़ाइलें मॉड के साथ रखी जाएँगी; गेम पैच के अपडेट गेम की फ़ाइलें भी बदल सकते हैं। गेम द्वारा लोड किए जाने पर स्क्रिप्ट और नेटिव लाइब्रेरी चल सकती हैं। पैक में मौजूद इंस्टॉलर अपने आप नहीं चलाए जाते।
+Safety.PreviewAction,केवल पूर्वावलोकन का मेटाडेटा और आइकन इस्तेमाल होगा। पूर्वावलोकन की अतिरिक्त फ़ाइलें अनदेखी की जाएँगी और कभी नहीं चलाई जाएँगी।
+Safety.ReplacementReason,यह पैक किसी दूसरे स्रोत से इंस्टॉल किए गए मॉड को बदलता है। सूची में दिए हर प्रतिस्थापन और असामान्य फ़ाइल की समीक्षा करें। फ़ाइल का नाम जाँचना मैलवेयर स्कैन नहीं है।
+Safety.ReplacementTitle,मॉड प्रतिस्थापन की समीक्षा
+Safety.RepositoryMessage,"बाहरी रिपॉज़िटरी अपने डाउनलोड और भविष्य के अपडेट नियंत्रित करती है। मॉड में स्क्रिप्ट या नेटिव कोड हो सकता है, वे गेम की फ़ाइलें ओवरराइट कर सकते हैं, या गेम द्वारा लोड किए जाने पर आपके खाते की पहुँच वाली फ़ाइलों तक पहुँच सकते हैं। केवल भरोसेमंद स्रोत जोड़ें।
+
+क्या आप यह रिपॉज़िटरी जोड़ना चाहते हैं?"
+Safety.RepositoryTitle,बाहरी रिपॉज़िटरी जोड़ें?
+Safety.UnexpectedPackage,मॉड पैक में अनपेक्षित फ़ाइलें
+Safety.UnexpectedPreview,मॉड के पूर्वावलोकन में अनपेक्षित फ़ाइलें
+Safety.UnexpectedReason,इस डाउनलोड में चल सकने वाली सामग्री या सामान्य फ़ॉर्मैट से बाहर की फ़ाइलें हैं। फ़ाइल का नाम जाँचना मैलवेयर स्कैन नहीं है।
+Sort.Author,लेखक
+Sort.Caption.0,बढ़ता क्रम
+Sort.Caption.1,घटता क्रम
+Sort.Caption.2,सबसे नए
+Sort.Caption.3,सबसे पुराने
+Sort.GroupingDescription,क्रम या समूह चुनें
+Sort.Priority,प्राथमिकता
+Sort.UnknownDateHint, — अज्ञात तारीख वाली प्रविष्टियाँ हर समूह में अंत में दिखेंगी
+Status.DisabledSuffix, (बंद)
+Status.Installed,इंस्टॉल किया गया
+Status.NotInstalled,इंस्टॉल नहीं किया गया
